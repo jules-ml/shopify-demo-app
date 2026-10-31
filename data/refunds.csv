@@ -1,0 +1,369 @@
+Refund ID,Order,Name,Payment Method,Kind,Gateway,Created At,Status,Amount,Currency,Card Type,Lineitem SKU,Refund Quantity,Restocked,Refund Reason,Order Created At
+RF-100000,6100000032991,#1007,Shopify Payments,refund,shopify_payments,2025-12-01 06:33:00 -0500,success,43.22,USD,visa,CND-SSC-16,1,false,Quality issue,2025-10-26 20:33:00 -0400
+RF-100001,6100000083649,#1016,Shopify Payments,refund,shopify_payments,2025-11-26 15:07:22 -0500,success,19.12,USD,visa,SKN-HCRM,1,true,Changed mind,2025-10-26 15:07:22 -0400
+RF-100002,6100000086913,#1017,Shopify Payments,refund,shopify_payments,2025-11-16 12:12:58 -0500,success,81.13,USD,visa,HTX-THR-NAT,1,true,Color not as pictured,2025-10-27 22:12:58 -0400
+RF-100003,6100000092112,#1018,Shopify Payments,refund,shopify_payments,2025-11-10 09:59:22 -0500,success,29.12,USD,visa,CND-EMP-08,1,true,Changed mind,2025-10-27 21:59:22 -0400
+RF-100004,6100000330234,#1063,Shopify Payments,refund,shopify_payments,2025-11-27 08:39:23 -0500,success,59.68,USD,visa,DRK-POUR,1,false,Arrived damaged,2025-10-31 16:39:23 -0400
+RF-100005,6100000399426,#1080,Shopify Payments,refund,shopify_payments,2025-11-30 17:08:10 -0500,success,91.58,USD,visa,HTX-THR-NAT,1,true,Color not as pictured,2025-11-01 16:08:10 -0400
+RF-100006,6100000515797,#1101,Shopify Payments,refund,shopify_payments,2025-11-18 08:09:41 -0500,success,91.58,USD,visa,HTX-THR-NAT,1,true,Changed mind,2025-11-02 14:09:41 -0500
+RF-100007,6100000521555,#1103,Shopify Payments,refund,shopify_payments,2025-11-20 10:38:26 -0500,success,94.78,USD,visa,HTX-THR-NAT,1,true,Changed mind,2025-11-02 10:38:26 -0500
+RF-100008,6100000533211,#1105,Shopify Payments,refund,shopify_payments,2025-12-08 07:52:19 -0500,success,80.19,USD,visa,HTX-THR-CHR,1,false,Too thin / quality,2025-11-02 17:52:19 -0500
+RF-100009,6100000607939,#1123,Shopify Payments,refund,shopify_payments,2025-11-27 10:06:23 -0500,success,60.06,USD,visa,CND-FDW-08,2,true,Wrong color/size,2025-11-03 16:06:23 -0500
+RF-100010,6100000630363,#1130,Shopify Payments,refund,shopify_payments,2025-11-15 01:24:24 -0500,success,80.38,USD,visa,HTX-THR-NAT,1,true,Color not as pictured,2025-11-04 07:24:24 -0500
+RF-100011,6100000702677,#1144,Shopify Payments,refund,shopify_payments,2025-12-06 10:50:14 -0500,success,150.73,USD,visa,BND-GIFT,3,true,Not as described,2025-11-05 06:50:14 -0500
+RF-100012,6100000754944,#1155,Shopify Payments,refund,shopify_payments,2025-11-14 18:05:39 -0500,success,61.62,USD,amex,DRK-POUR,1,false,Arrived damaged,2025-11-06 15:05:39 -0500
+RF-100013,6100000784260,#1160,Shopify Payments,refund,shopify_payments,2025-11-21 05:23:13 -0500,success,23.80,USD,visa,CND-SSC-08,1,true,Changed mind,2025-11-06 07:23:13 -0500
+RF-100014,6100000848698,#1174,PayPal Express Checkout,refund,paypal,2025-12-05 05:31:04 -0500,success,50.88,USD,,HTX-TWL-WHT,1,true,Not as described,2025-11-06 23:31:04 -0500
+RF-100015,6100000984658,#1203,Shopify Payments,refund,shopify_payments,2025-11-21 05:45:28 -0500,success,61.48,USD,visa,DRK-POUR,1,false,Arrived damaged,2025-11-08 17:45:28 -0500
+RF-100016,6100001130110,#1232,Shopify Payments,refund,shopify_payments,2025-11-21 18:49:18 -0500,success,36.38,USD,visa,DRK-TMB-SND,1,false,Arrived damaged,2025-11-09 09:49:18 -0500
+RF-100017,6100001172459,#1239,Shopify Payments,refund,shopify_payments,2025-11-27 07:40:00 -0500,success,41.98,USD,visa,HTX-TWL-SND,1,true,Wrong color/size,2025-11-09 07:40:00 -0500
+RF-100018,6100001207880,#1247,Shopify Payments,refund,shopify_payments,2025-12-04 03:41:50 -0500,success,89.00,USD,visa,HTX-THR-SAG,1,true,Color not as pictured,2025-11-10 07:41:50 -0500
+RF-100019,6100001222916,#1250,Shopify Payments,refund,shopify_payments,2025-11-28 00:06:45 -0500,success,89.46,USD,visa,CND-FDW-08,3,false,Arrived damaged,2025-11-10 18:06:45 -0500
+RF-100020,6100001261782,#1257,Shopify Payments,refund,shopify_payments,2025-11-30 09:43:25 -0500,success,36.12,USD,amex,DRK-TMB-NVY,1,false,Arrived damaged,2025-11-10 16:43:25 -0500
+RF-100021,6100001268010,#1259,Shopify Payments,refund,shopify_payments,2025-11-27 09:14:42 -0500,success,30.03,USD,visa,CND-SMS-08,1,false,Quality issue,2025-11-10 11:14:42 -0500
+RF-100022,6100001269637,#1260,Shopify Payments,refund,shopify_payments,2025-11-21 04:18:30 -0500,success,61.99,USD,visa,DRK-TMB-SND,2,true,Changed mind,2025-11-11 21:18:30 -0500
+RF-100023,6100001269637,#1260,Shopify Payments,refund,shopify_payments,2025-12-13 00:18:30 -0500,success,51.05,USD,visa,CND-SSC-08,2,true,Changed mind,2025-11-11 21:18:30 -0500
+RF-100024,6100001330589,#1270,Shopify Payments,refund,shopify_payments,2025-11-29 05:23:10 -0500,success,80.57,USD,visa,HTX-THR-SAG,1,false,Too thin / quality,2025-11-11 21:23:10 -0500
+RF-100025,6100001399938,#1283,Shopify Payments,refund,shopify_payments,2025-11-25 10:55:36 -0500,success,50.36,USD,visa,BND-GIFT,1,true,Changed mind,2025-11-12 13:55:36 -0500
+RF-100026,6100001594142,#1318,Shopify Payments,refund,shopify_payments,2025-11-23 16:10:40 -0500,success,50.48,USD,amex,BND-GIFT,1,false,Arrived damaged,2025-11-14 22:10:40 -0500
+RF-100027,6100001681396,#1333,Shopify Payments,refund,shopify_payments,2025-12-19 12:57:16 -0500,success,80.38,USD,amex,HTX-THR-CHR,1,false,Too thin / quality,2025-11-15 19:57:16 -0500
+RF-100028,6100001692472,#1335,Shopify Payments,refund,shopify_payments,2025-12-04 10:48:47 -0500,success,95.45,USD,visa,HTX-THR-CHR,1,false,Too thin / quality,2025-11-15 23:48:47 -0500
+RF-100029,6100001771990,#1350,Shopify Payments,refund,shopify_payments,2025-12-21 10:16:29 -0500,success,42.00,USD,visa,CND-EMP-16,1,true,Changed mind,2025-11-16 19:16:29 -0500
+RF-100030,6100001826155,#1359,Shopify Payments,refund,shopify_payments,2025-12-13 16:41:27 -0500,success,60.32,USD,visa,DRK-POUR,1,false,Arrived damaged,2025-11-16 13:41:27 -0500
+RF-100031,6100002017792,#1398,Shopify Payments,refund,shopify_payments,2025-12-15 20:50:44 -0500,success,80.19,USD,amex,HTX-THR-NAT,1,true,Color not as pictured,2025-11-19 22:50:44 -0500
+RF-100032,6100002024962,#1400,Shopify Payments,refund,shopify_payments,2025-12-24 06:29:02 -0500,success,92.56,USD,visa,HTX-THR-NAT,1,true,Color not as pictured,2025-11-19 15:29:02 -0500
+RF-100033,6100002043629,#1404,Shopify Payments,refund,shopify_payments,2025-12-26 09:44:24 -0500,success,96.90,USD,visa,HTX-THR-SAG,1,true,Color not as pictured,2025-11-19 10:44:24 -0500
+RF-100034,6100002092489,#1414,Shopify Payments,refund,shopify_payments,2025-12-06 11:26:04 -0500,success,58.00,USD,visa,DRK-POUR,1,false,Arrived damaged,2025-11-20 09:26:04 -0500
+RF-100035,6100002129853,#1421,Shopify Payments,refund,shopify_payments,2025-12-10 13:15:38 -0500,success,29.75,USD,visa,CND-SMS-08,1,true,Wrong color/size,2025-11-20 21:15:38 -0500
+RF-100036,6100002153761,#1425,Shopify Payments,refund,shopify_payments,2025-12-09 09:09:14 -0500,success,21.67,USD,visa,SKN-SCRB,1,false,Quality issue,2025-11-20 15:09:14 -0500
+RF-100037,6100002192531,#1432,PayPal Express Checkout,refund,paypal,2025-12-25 05:10:30 -0500,success,50.48,USD,,BND-GIFT,1,true,Wrong color/size,2025-11-21 06:10:30 -0500
+RF-100038,6100002223521,#1438,Shopify Payments,refund,shopify_payments,2025-12-10 03:26:33 -0500,success,37.84,USD,visa,CND-SSC-16,1,true,Changed mind,2025-11-21 23:26:33 -0500
+RF-100039,6100002268289,#1448,Shopify Payments,refund,shopify_payments,2025-12-23 04:59:40 -0500,success,94.78,USD,visa,HTX-THR-NAT,1,false,Too thin / quality,2025-11-22 20:59:40 -0500
+RF-100040,6100002417519,#1474,Shopify Payments,refund,shopify_payments,2025-12-19 15:57:40 -0500,success,30.48,USD,visa,CND-SSC-08,1,true,Changed mind,2025-11-23 23:57:40 -0500
+RF-100041,6100002541170,#1496,Shopify Payments,refund,shopify_payments,2025-12-15 18:45:43 -0500,success,189.12,USD,visa,HTX-THR-NAT,2,false,Too thin / quality,2025-11-25 19:45:43 -0500
+RF-100042,6100002580859,#1506,Shopify Payments,refund,shopify_payments,2025-12-20 09:24:09 -0500,success,94.56,USD,visa,HTX-THR-NAT,1,true,Color not as pictured,2025-11-25 22:24:09 -0500
+RF-100043,6100002663264,#1521,Shopify Payments,refund,shopify_payments,2025-12-31 07:20:46 -0500,success,50.24,USD,visa,BND-GIFT,1,false,Quality issue,2025-11-26 22:20:46 -0500
+RF-100044,6100002718448,#1531,Shopify Payments,refund,shopify_payments,2025-12-12 20:26:35 -0500,success,50.73,USD,visa,DRK-POUR,1,false,Arrived damaged,2025-11-27 22:26:35 -0500
+RF-100045,6100002723058,#1532,Shopify Payments,refund,shopify_payments,2026-01-04 12:00:16 -0500,success,28.81,USD,visa,CND-FDW-08,1,false,Quality issue,2025-11-27 14:00:16 -0500
+RF-100046,6100003007942,#1593,Shopify Payments,refund,shopify_payments,2026-01-04 07:55:05 -0500,success,80.57,USD,visa,HTX-THR-NAT,1,true,Color not as pictured,2025-11-29 07:55:05 -0500
+RF-100047,6100003023044,#1596,Shopify Payments,refund,shopify_payments,2025-12-23 22:31:07 -0500,success,50.24,USD,visa,BND-GIFT,1,false,Quality issue,2025-11-29 13:31:07 -0500
+RF-100048,6100003023044,#1596,Shopify Payments,refund,shopify_payments,2025-12-17 23:31:07 -0500,success,29.68,USD,visa,CND-SSC-08,1,true,Changed mind,2025-11-29 13:31:07 -0500
+RF-100049,6100003066370,#1603,Shopify Payments,refund,shopify_payments,2025-12-11 00:32:16 -0500,success,38.02,USD,visa,CND-SMS-16,1,true,Changed mind,2025-11-29 23:32:16 -0500
+RF-100050,6100003112626,#1613,Shopify Payments,refund,shopify_payments,2025-12-16 02:05:54 -0500,success,94.56,USD,visa,HTX-THR-NAT,1,true,Color not as pictured,2025-11-29 07:05:54 -0500
+RF-100051,6100003237357,#1636,Shopify Payments,refund,shopify_payments,2026-01-01 10:32:28 -0500,success,161.89,USD,visa,HTX-THR-NAT,2,false,Too thin / quality,2025-11-29 06:32:28 -0500
+RF-100052,6100003261639,#1641,Shopify Payments,refund,shopify_payments,2025-12-30 04:00:27 -0500,success,70.75,USD,visa,HTX-THR-NAT,1,true,Color not as pictured,2025-11-30 13:00:27 -0500
+RF-100053,6100003283371,#1646,Shopify Payments,refund,shopify_payments,2025-12-12 15:25:40 -0500,success,107.35,USD,amex,DRK-POUR,2,false,Arrived damaged,2025-11-30 07:25:40 -0500
+RF-100054,6100003316017,#1653,Shopify Payments,refund,shopify_payments,2026-01-05 21:21:59 -0500,success,70.92,USD,amex,HTX-THR-SAG,1,true,Color not as pictured,2025-11-30 20:21:59 -0500
+RF-100055,6100003316017,#1653,Shopify Payments,refund,shopify_payments,2025-12-16 18:21:59 -0500,success,51.00,USD,amex,HFR-REED,2,true,Changed mind,2025-11-30 20:21:59 -0500
+RF-100056,6100003337244,#1657,Shopify Payments,refund,shopify_payments,2025-12-16 11:18:13 -0500,success,25.23,USD,visa,CND-EMP-08,1,false,Arrived damaged,2025-11-30 13:18:13 -0500
+RF-100057,6100003378672,#1666,Shopify Payments,refund,shopify_payments,2025-12-13 20:14:36 -0500,success,34.99,USD,visa,DRK-TMB-NVY,1,true,Wrong color/size,2025-11-30 20:14:36 -0500
+RF-100058,6100003461781,#1683,Shopify Payments,refund,shopify_payments,2025-12-10 10:55:03 -0500,success,22.26,USD,visa,CND-SSC-08,1,false,Quality issue,2025-11-30 09:55:03 -0500
+RF-100059,6100003559162,#1699,Shopify Payments,refund,shopify_payments,2025-12-09 21:55:38 -0500,success,30.92,USD,visa,DRK-TMB-NVY,1,true,Wrong color/size,2025-12-01 06:55:38 -0500
+RF-100060,6100003636871,#1713,Shopify Payments,refund,shopify_payments,2025-12-11 05:10:43 -0500,success,69.42,USD,visa,HTX-THR-NAT,1,true,Color not as pictured,2025-12-01 09:10:43 -0500
+RF-100061,6100003670002,#1720,Shopify Payments,refund,shopify_payments,2026-01-05 08:08:38 -0500,success,44.76,USD,visa,DRK-POUR,1,false,Arrived damaged,2025-12-01 18:08:38 -0500
+RF-100062,6100003697997,#1726,Shopify Payments,refund,shopify_payments,2025-12-14 22:14:49 -0500,success,137.37,USD,amex,HTX-THR-CHR,2,false,Too thin / quality,2025-12-01 12:14:49 -0500
+RF-100063,6100003826521,#1751,Shopify Payments,refund,shopify_payments,2025-12-20 18:06:27 -0500,success,46.85,USD,visa,HFR-CARE,2,true,Changed mind,2025-12-01 13:06:27 -0500
+RF-100064,6100004028662,#1790,Shopify Payments,refund,shopify_payments,2025-12-27 04:42:58 -0500,success,72.08,USD,visa,DRK-TMB-NVY,2,true,Not as described,2025-12-03 14:42:58 -0500
+RF-100065,6100004031820,#1791,Shopify Payments,refund,shopify_payments,2025-12-16 01:50:11 -0500,success,43.68,USD,visa,CND-NTD-16,1,true,Wrong color/size,2025-12-03 14:50:11 -0500
+RF-100066,6100004036110,#1792,Shopify Payments,refund,shopify_payments,2026-01-05 02:58:18 -0500,success,35.36,USD,visa,DRK-TMB-NVY,1,false,Quality issue,2025-12-03 11:58:18 -0500
+RF-100067,6100004085681,#1802,Shopify Payments,refund,shopify_payments,2026-01-01 23:25:21 -0500,success,61.62,USD,visa,DRK-POUR,1,false,Arrived damaged,2025-12-04 08:25:21 -0500
+RF-100068,6100004164531,#1820,Shopify Payments,refund,shopify_payments,2025-12-23 06:03:58 -0500,success,32.44,USD,visa,DRK-MUG-OAT,1,true,Wrong color/size,2025-12-04 20:03:58 -0500
+RF-100069,6100004175161,#1822,Shopify Payments,refund,shopify_payments,2025-12-27 19:22:21 -0500,success,89.25,USD,amex,CND-SSC-08,3,false,Arrived damaged,2025-12-04 11:22:21 -0500
+RF-100070,6100004212308,#1831,Shopify Payments,refund,shopify_payments,2026-01-08 04:24:10 -0500,success,89.25,USD,amex,CND-EMP-16,2,false,Arrived damaged,2025-12-05 15:24:10 -0500
+RF-100071,6100004309073,#1851,Shopify Payments,refund,shopify_payments,2025-12-26 11:48:10 -0500,success,35.36,USD,visa,DRK-TMB-NVY,1,true,Not as described,2025-12-06 21:48:10 -0500
+RF-100072,6100004330819,#1857,Shopify Payments,refund,shopify_payments,2025-12-29 17:15:14 -0500,success,70.29,USD,amex,SKN-SOAK,3,false,Quality issue,2025-12-06 13:15:14 -0500
+RF-100073,6100004361127,#1863,Shopify Payments,refund,shopify_payments,2026-01-05 14:46:11 -0500,success,43.68,USD,visa,CND-FDW-16,1,true,Wrong color/size,2025-12-06 15:46:11 -0500
+RF-100074,6100004437513,#1879,Shopify Payments,refund,shopify_payments,2026-01-09 15:42:33 -0500,success,36.12,USD,amex,DRK-TMB-SND,1,true,Changed mind,2025-12-06 10:42:33 -0500
+RF-100075,6100004449086,#1881,PayPal Express Checkout,refund,paypal,2025-12-16 19:35:24 -0500,success,190.46,USD,,HTX-THR-CHR,2,false,Too thin / quality,2025-12-06 19:35:24 -0500
+RF-100076,6100004471012,#1886,Shopify Payments,refund,shopify_payments,2025-12-20 17:46:20 -0500,success,29.68,USD,visa,CND-SMS-08,1,false,Quality issue,2025-12-06 12:46:20 -0500
+RF-100077,6100004604862,#1910,Shopify Payments,refund,shopify_payments,2025-12-18 05:25:32 -0500,success,25.53,USD,visa,CND-SSC-08,1,true,Changed mind,2025-12-07 12:25:32 -0500
+RF-100078,6100004686564,#1925,Shopify Payments,refund,shopify_payments,2026-01-02 11:22:07 -0500,success,21.67,USD,amex,SKN-SCRB,1,true,Changed mind,2025-12-08 14:22:07 -0500
+RF-100079,6100004686564,#1925,Shopify Payments,refund,shopify_payments,2025-12-26 05:22:07 -0500,success,25.29,USD,amex,CND-SSC-08,1,false,Quality issue,2025-12-08 14:22:07 -0500
+RF-100080,6100004765738,#1939,Shopify Payments,refund,shopify_payments,2025-12-30 08:26:08 -0500,success,29.12,USD,visa,CND-NTD-08,1,true,Wrong color/size,2025-12-09 22:26:08 -0500
+RF-100081,6100004820724,#1949,Shopify Payments,refund,shopify_payments,2026-01-11 02:31:45 -0500,success,94.56,USD,visa,HTX-THR-NAT,1,false,Too thin / quality,2025-12-09 22:31:45 -0500
+RF-100082,6100004865884,#1956,Shopify Payments,refund,shopify_payments,2025-12-21 16:26:38 -0500,success,94.56,USD,visa,HTX-THR-NAT,1,true,Changed mind,2025-12-09 23:26:38 -0500
+RF-100083,6100004892748,#1961,Shopify Payments,refund,shopify_payments,2026-01-05 06:54:14 -0500,success,29.75,USD,amex,CND-CDN-08,1,true,Wrong color/size,2025-12-09 11:54:14 -0500
+RF-100084,6100004977626,#1980,Shopify Payments,refund,shopify_payments,2025-12-18 09:14:42 -0500,success,37.84,USD,visa,CND-CDN-16,1,true,Wrong color/size,2025-12-10 23:14:42 -0500
+RF-100085,6100004978961,#1981,PayPal Express Checkout,refund,paypal,2026-01-01 22:52:26 -0500,success,44.52,USD,,CND-EMP-16,1,true,Changed mind,2025-12-11 15:52:26 -0500
+RF-100086,6100005003679,#1987,Shopify Payments,refund,shopify_payments,2026-01-12 05:35:27 -0500,success,28.81,USD,visa,CND-SMS-08,1,true,Changed mind,2025-12-11 08:35:27 -0500
+RF-100087,6100005054607,#1996,Shopify Payments,refund,shopify_payments,2026-01-11 08:20:04 -0500,success,50.36,USD,visa,BND-GIFT,1,true,Changed mind,2025-12-11 14:20:04 -0500
+RF-100088,6100005202213,#2023,Shopify Payments,refund,shopify_payments,2026-01-04 21:47:44 -0500,success,94.34,USD,visa,HTX-THR-NAT,1,true,Color not as pictured,2025-12-12 06:47:44 -0500
+RF-100089,6100005257528,#2034,Shopify Payments,refund,shopify_payments,2025-12-26 18:08:36 -0500,success,29.12,USD,amex,CND-SSC-08,1,true,Changed mind,2025-12-12 16:08:36 -0500
+RF-100090,6100005372509,#2056,Shopify Payments,refund,shopify_payments,2025-12-30 23:25:47 -0500,success,190.46,USD,visa,HTX-THR-NAT,2,true,Color not as pictured,2025-12-13 21:25:47 -0500
+RF-100091,6100005380377,#2057,Shopify Payments,refund,shopify_payments,2026-01-15 09:13:51 -0500,success,49.30,USD,visa,BND-GIFT,1,true,Wrong color/size,2025-12-13 10:13:51 -0500
+RF-100092,6100005399373,#2060,Shopify Payments,refund,shopify_payments,2025-12-22 12:09:38 -0500,success,61.48,USD,visa,DRK-POUR,1,false,Arrived damaged,2025-12-13 12:09:38 -0500
+RF-100093,6100005408840,#2062,Shopify Payments,refund,shopify_payments,2025-12-27 14:38:23 -0500,success,94.34,USD,visa,HTX-THR-SAG,1,false,Too thin / quality,2025-12-13 18:38:23 -0500
+RF-100094,6100005410902,#2063,Shopify Payments,refund,shopify_payments,2025-12-27 01:07:51 -0500,success,62.06,USD,visa,DRK-POUR,1,false,Arrived damaged,2025-12-13 15:07:51 -0500
+RF-100095,6100005631255,#2104,Shopify Payments,refund,shopify_payments,2026-01-09 22:17:08 -0500,success,42.00,USD,visa,CND-SSC-16,1,false,Arrived damaged,2025-12-15 18:17:08 -0500
+RF-100096,6100005651454,#2108,Shopify Payments,refund,shopify_payments,2026-01-11 21:31:18 -0500,success,28.81,USD,visa,CND-SSC-08,1,true,Wrong color/size,2025-12-15 16:31:18 -0500
+RF-100097,6100005674283,#2113,Shopify Payments,refund,shopify_payments,2025-12-29 14:21:58 -0500,success,37.93,USD,visa,CND-EMP-16,1,true,Not as described,2025-12-15 10:21:58 -0500
+RF-100098,6100005726936,#2123,Shopify Payments,refund,shopify_payments,2026-01-02 17:02:41 -0500,success,47.40,USD,visa,BND-GIFT,1,true,Wrong color/size,2025-12-16 22:02:41 -0500
+RF-100099,6100005770090,#2130,Shopify Payments,refund,shopify_payments,2025-12-26 03:18:53 -0500,success,44.62,USD,amex,CND-NTD-16,1,true,Changed mind,2025-12-16 22:18:53 -0500
+RF-100100,6100005772302,#2131,Shopify Payments,refund,shopify_payments,2026-01-17 09:05:32 -0500,success,50.72,USD,visa,BND-GIFT,1,true,Changed mind,2025-12-16 11:05:32 -0500
+RF-100101,6100005855381,#2151,Shopify Payments,refund,shopify_payments,2025-12-29 20:22:31 -0500,success,94.56,USD,visa,HTX-THR-CHR,1,false,Too thin / quality,2025-12-17 17:22:31 -0500
+RF-100102,6100005936512,#2165,Shopify Payments,refund,shopify_payments,2025-12-26 22:15:36 -0500,success,101.67,USD,visa,BND-GIFT,2,true,Wrong color/size,2025-12-17 09:15:36 -0500
+RF-100103,6100006055098,#2186,Shopify Payments,refund,shopify_payments,2026-01-04 02:24:40 -0500,success,52.26,USD,visa,DRK-POUR,1,false,Arrived damaged,2025-12-18 06:24:40 -0500
+RF-100104,6100006070961,#2188,Shopify Payments,refund,shopify_payments,2026-01-17 13:43:50 -0500,success,34.00,USD,visa,HFR-REED,1,true,Changed mind,2025-12-18 21:43:50 -0500
+RF-100105,6100006079944,#2189,Shopify Payments,refund,shopify_payments,2026-01-10 17:42:12 -0500,success,82.36,USD,visa,HTX-THR-CHR,1,true,Color not as pictured,2025-12-18 12:42:12 -0500
+RF-100106,6100006090554,#2191,Shopify Payments,refund,shopify_payments,2026-01-09 11:26:21 -0500,success,94.34,USD,visa,HTX-THR-CHR,1,true,Color not as pictured,2025-12-18 15:26:21 -0500
+RF-100107,6100006332799,#2242,Shopify Payments,refund,shopify_payments,2026-01-11 06:47:10 -0500,success,91.58,USD,visa,HTX-THR-NAT,1,true,Color not as pictured,2025-12-20 15:47:10 -0500
+RF-100108,6100006352870,#2247,PayPal Express Checkout,refund,paypal,2025-12-28 21:36:32 -0500,success,94.34,USD,,HTX-THR-NAT,1,true,Color not as pictured,2025-12-20 16:36:32 -0500
+RF-100109,6100006464205,#2270,PayPal Express Checkout,refund,paypal,2026-01-01 12:44:54 -0500,success,49.30,USD,,BND-GIFT,1,true,Not as described,2025-12-21 17:44:54 -0500
+RF-100110,6100006479972,#2273,Shopify Payments,refund,shopify_payments,2026-01-14 23:54:32 -0500,success,36.38,USD,visa,DRK-TMB-SND,1,true,Changed mind,2025-12-21 10:54:32 -0500
+RF-100111,6100006564820,#2293,Shopify Payments,refund,shopify_payments,2026-01-27 04:08:08 -0500,success,52.26,USD,visa,HTX-TWL-WHT,1,true,Changed mind,2025-12-22 15:08:08 -0500
+RF-100112,6100006925561,#2366,Shopify Payments,refund,shopify_payments,2026-01-09 12:35:02 -0500,success,80.19,USD,visa,HTX-THR-NAT,1,true,Color not as pictured,2025-12-28 22:35:02 -0500
+RF-100113,6100007024694,#2383,Shopify Payments,refund,shopify_payments,2026-01-05 20:03:48 -0500,success,96.90,USD,visa,HTX-THR-SAG,1,false,Too thin / quality,2025-12-29 09:03:48 -0500
+RF-100114,6100007073826,#2394,Shopify Payments,refund,shopify_payments,2026-01-24 05:51:27 -0500,success,24.96,USD,visa,SKN-SCRB,1,true,Changed mind,2025-12-31 10:51:27 -0500
+RF-100115,6100007184951,#2414,PayPal Express Checkout,refund,paypal,2026-01-21 07:04:48 -0500,success,29.75,USD,,CND-NTD-08,1,true,Changed mind,2026-01-02 12:04:48 -0500
+RF-100116,6100007216934,#2420,Shopify Payments,refund,shopify_payments,2026-02-03 00:38:10 -0500,success,89.00,USD,visa,HTX-THR-NAT,1,true,Color not as pictured,2026-01-03 21:38:10 -0500
+RF-100117,6100007222123,#2422,PayPal Express Checkout,refund,paypal,2026-01-27 22:24:20 -0500,success,38.25,USD,,DRK-MUG-OAT,1,true,Not as described,2026-01-03 16:24:20 -0500
+RF-100118,6100007225309,#2423,Shopify Payments,refund,shopify_payments,2026-02-05 07:48:58 -0500,success,94.34,USD,visa,HTX-THR-CHR,1,true,Changed mind,2026-01-03 23:48:58 -0500
+RF-100119,6100007253267,#2429,Shopify Payments,refund,shopify_payments,2026-01-31 09:28:33 -0500,success,25.50,USD,visa,SKN-SCRB,1,true,Not as described,2026-01-04 12:28:33 -0500
+RF-100120,6100007343547,#2449,Shopify Payments,refund,shopify_payments,2026-01-21 17:22:01 -0500,success,9.63,USD,visa,HFR-MTCH,1,false,Quality issue,2026-01-07 23:22:01 -0500
+RF-100121,6100007501805,#2482,Shopify Payments,refund,shopify_payments,2026-01-31 16:49:44 -0500,success,72.25,USD,visa,DRK-TMB-BLK,2,false,Quality issue,2026-01-10 18:49:44 -0500
+RF-100122,6100007518772,#2485,Shopify Payments,refund,shopify_payments,2026-01-29 17:10:22 -0500,success,80.57,USD,visa,HTX-THR-CHR,1,true,Changed mind,2026-01-10 17:10:22 -0500
+RF-100123,6100007570429,#2494,Shopify Payments,refund,shopify_payments,2026-02-11 18:09:59 -0500,success,44.62,USD,visa,CND-FDW-16,1,true,Not as described,2026-01-11 14:09:59 -0500
+RF-100124,6100007570429,#2494,Shopify Payments,refund,shopify_payments,2026-02-17 21:09:59 -0500,success,51.00,USD,visa,HTX-TWL-WHT,1,true,Changed mind,2026-01-11 14:09:59 -0500
+RF-100125,6100007605476,#2500,Shopify Payments,refund,shopify_payments,2026-01-30 04:22:22 -0500,success,50.88,USD,visa,HTX-TWL-WHT,1,false,Arrived damaged,2026-01-12 06:22:22 -0500
+RF-100126,6100007829092,#2545,Shopify Payments,refund,shopify_payments,2026-02-14 18:48:03 -0500,success,58.00,USD,visa,DRK-POUR,1,false,Arrived damaged,2026-01-17 19:48:03 -0500
+RF-100127,6100007869454,#2553,Shopify Payments,refund,shopify_payments,2026-02-18 11:36:19 -0500,success,50.73,USD,visa,DRK-POUR,1,false,Arrived damaged,2026-01-19 15:36:19 -0500
+RF-100128,6100007950439,#2568,Shopify Payments,refund,shopify_payments,2026-02-08 09:01:46 -0500,success,29.75,USD,visa,CND-SSC-08,1,true,Changed mind,2026-01-20 12:01:46 -0500
+RF-100129,6100008161920,#2605,Shopify Payments,refund,shopify_payments,2026-02-11 18:02:43 -0500,success,94.78,USD,visa,HTX-THR-NAT,1,true,Color not as pictured,2026-01-24 09:02:43 -0500
+RF-100130,6100008238939,#2619,Shopify Payments,refund,shopify_payments,2026-02-22 10:37:06 -0500,success,23.60,USD,visa,SKN-SOAK,1,true,Changed mind,2026-01-26 14:37:06 -0500
+RF-100131,6100008276292,#2628,Shopify Payments,refund,shopify_payments,2026-03-01 19:30:50 -0500,success,36.38,USD,visa,DRK-TMB-BLK,1,false,Arrived damaged,2026-01-27 09:30:50 -0500
+RF-100132,6100008278942,#2629,Shopify Payments,refund,shopify_payments,2026-02-12 14:40:03 -0500,success,52.26,USD,visa,HTX-TWL-WHT,1,true,Changed mind,2026-01-27 19:40:03 -0500
+RF-100133,6100008287167,#2630,Shopify Payments,refund,shopify_payments,2026-02-17 13:39:47 -0500,success,44.52,USD,visa,CND-FDW-16,1,true,Changed mind,2026-01-27 09:39:47 -0500
+RF-100134,6100008331343,#2639,Shopify Payments,refund,shopify_payments,2026-02-09 10:08:11 -0500,success,38.16,USD,visa,DRK-MUG-TER,1,false,Quality issue,2026-01-28 16:08:11 -0500
+RF-100135,6100008408705,#2652,Shopify Payments,refund,shopify_payments,2026-03-06 05:31:06 -0500,success,95.23,USD,visa,HTX-THR-CHR,1,true,Changed mind,2026-01-30 17:31:06 -0500
+RF-100136,6100008413573,#2653,Shopify Payments,refund,shopify_payments,2026-02-22 07:32:30 -0500,success,27.04,USD,visa,HFR-CARE,1,true,Not as described,2026-01-30 20:32:30 -0500
+RF-100137,6100008542427,#2679,Shopify Payments,refund,shopify_payments,2026-02-19 19:40:11 -0500,success,94.34,USD,visa,HTX-THR-CHR,1,true,Color not as pictured,2026-02-01 09:40:11 -0500
+RF-100138,6100008551697,#2681,Shopify Payments,refund,shopify_payments,2026-02-17 05:38:54 -0500,success,94.34,USD,visa,HTX-THR-CHR,1,true,Color not as pictured,2026-02-02 06:38:54 -0500
+RF-100139,6100008581371,#2688,Shopify Payments,refund,shopify_payments,2026-02-10 11:09:42 -0500,success,94.34,USD,visa,HTX-THR-NAT,1,true,Color not as pictured,2026-02-02 06:09:42 -0500
+RF-100140,6100008605729,#2692,Shopify Payments,refund,shopify_payments,2026-02-21 09:04:35 -0500,success,80.19,USD,visa,HTX-THR-NAT,1,true,Color not as pictured,2026-02-03 10:04:35 -0500
+RF-100141,6100008688577,#2707,Shopify Payments,refund,shopify_payments,2026-03-05 11:38:29 -0500,success,44.62,USD,visa,CND-FDW-16,1,true,Not as described,2026-02-05 20:38:29 -0500
+RF-100142,6100008768049,#2721,Shopify Payments,refund,shopify_payments,2026-03-14 00:20:23 -0400,success,61.48,USD,visa,DRK-POUR,1,false,Arrived damaged,2026-02-07 20:20:23 -0500
+RF-100143,6100008887830,#2746,Shopify Payments,refund,shopify_payments,2026-02-26 09:01:34 -0500,success,58.24,USD,visa,CND-SSC-08,2,true,Wrong color/size,2026-02-09 13:01:34 -0500
+RF-100144,6100008943058,#2758,Shopify Payments,refund,shopify_payments,2026-03-11 07:13:16 -0400,success,43.45,USD,visa,HTX-TWL-WHT,1,false,Quality issue,2026-02-09 10:13:16 -0500
+RF-100145,6100008959376,#2760,Shopify Payments,refund,shopify_payments,2026-03-15 23:15:06 -0400,success,96.90,USD,visa,HTX-THR-CHR,1,false,Too thin / quality,2026-02-10 16:15:06 -0500
+RF-100146,6100008986046,#2767,Shopify Payments,refund,shopify_payments,2026-02-25 00:55:06 -0500,success,36.12,USD,amex,DRK-TMB-SND,1,true,Not as described,2026-02-10 22:55:06 -0500
+RF-100147,6100009011418,#2772,Shopify Payments,refund,shopify_payments,2026-03-14 05:27:32 -0400,success,21.62,USD,visa,SKN-SCRB,1,true,Wrong color/size,2026-02-11 11:27:32 -0500
+RF-100148,6100009075650,#2788,Shopify Payments,refund,shopify_payments,2026-03-01 21:05:55 -0500,success,12.72,USD,visa,SKN-LIP3,1,false,Quality issue,2026-02-12 07:05:55 -0500
+RF-100149,6100009114362,#2797,Shopify Payments,refund,shopify_payments,2026-03-14 08:25:53 -0400,success,80.19,USD,visa,HTX-THR-CHR,1,true,Color not as pictured,2026-02-14 06:25:53 -0500
+RF-100150,6100009307528,#2839,Shopify Payments,refund,shopify_payments,2026-03-27 10:43:37 -0400,success,62.20,USD,amex,DRK-POUR,1,false,Arrived damaged,2026-02-19 12:43:37 -0500
+RF-100151,6100009445397,#2866,Shopify Payments,refund,shopify_payments,2026-03-08 03:27:38 -0400,success,36.04,USD,amex,DRK-TMB-SND,1,true,Changed mind,2026-02-22 15:27:38 -0500
+RF-100152,6100009592669,#2894,PayPal Express Checkout,refund,paypal,2026-03-26 10:04:30 -0400,success,35.36,USD,,DRK-TMB-BLK,1,true,Wrong color/size,2026-02-27 21:04:30 -0500
+RF-100153,6100009633912,#2903,Shopify Payments,refund,shopify_payments,2026-04-05 14:28:34 -0400,success,29.75,USD,visa,CND-SSC-08,1,true,Wrong color/size,2026-02-28 10:28:34 -0500
+RF-100154,6100009672352,#2910,Shopify Payments,refund,shopify_payments,2026-03-09 11:22:53 -0400,success,62.06,USD,visa,DRK-POUR,1,false,Arrived damaged,2026-03-01 07:22:53 -0500
+RF-100155,6100009757725,#2927,Shopify Payments,refund,shopify_payments,2026-03-11 11:31:38 -0400,success,30.06,USD,visa,DRK-TMB-SFM,1,false,Arrived damaged,2026-03-02 12:31:38 -0500
+RF-100156,6100009769735,#2929,Shopify Payments,refund,shopify_payments,2026-03-31 21:08:51 -0400,success,80.57,USD,visa,HTX-THR-CHR,1,true,Changed mind,2026-03-02 21:08:51 -0500
+RF-100157,6100009773986,#2931,Shopify Payments,refund,shopify_payments,2026-04-06 19:47:51 -0400,success,23.32,USD,visa,SKN-SOAK,1,false,Quality issue,2026-03-02 19:47:51 -0500
+RF-100158,6100009815658,#2939,Shopify Payments,refund,shopify_payments,2026-03-31 16:24:00 -0400,success,189.12,USD,visa,HTX-THR-SAG,2,false,Too thin / quality,2026-03-03 17:24:00 -0500
+RF-100159,6100009948780,#2965,Shopify Payments,refund,shopify_payments,2026-04-05 03:32:45 -0400,success,53.68,USD,visa,DRK-POUR,1,false,Arrived damaged,2026-03-05 14:32:45 -0500
+RF-100160,6100009991233,#2975,Shopify Payments,refund,shopify_payments,2026-03-15 08:05:04 -0400,success,36.04,USD,visa,DRK-TMB-SFM,1,true,Not as described,2026-03-06 11:05:04 -0500
+RF-100161,6100010009996,#2980,Shopify Payments,refund,shopify_payments,2026-03-23 21:37:10 -0400,success,50.88,USD,visa,HTX-TWL-WHT,1,true,Wrong color/size,2026-03-06 21:37:10 -0500
+RF-100162,6100010185652,#3011,Shopify Payments,refund,shopify_payments,2026-04-10 09:46:03 -0400,success,43.22,USD,visa,CND-SSC-16,1,true,Wrong color/size,2026-03-08 07:46:03 -0400
+RF-100163,6100010281722,#3029,PayPal Express Checkout,refund,paypal,2026-04-11 07:54:56 -0400,success,37.02,USD,,DRK-TMB-BLK,1,true,Wrong color/size,2026-03-10 06:54:56 -0400
+RF-100164,6100010318190,#3035,PayPal Express Checkout,refund,paypal,2026-04-06 16:21:09 -0400,success,21.67,USD,,SKN-SCRB,1,false,Quality issue,2026-03-10 14:21:09 -0400
+RF-100165,6100010350885,#3043,Shopify Payments,refund,shopify_payments,2026-03-23 09:25:04 -0400,success,51.36,USD,visa,SKN-SCRB,2,false,Arrived damaged,2026-03-10 14:25:04 -0400
+RF-100166,6100010391305,#3054,Shopify Payments,refund,shopify_payments,2026-04-09 12:07:28 -0400,success,29.75,USD,visa,CND-SSC-08,1,true,Wrong color/size,2026-03-12 18:07:28 -0400
+RF-100167,6100010463303,#3066,Shopify Payments,refund,shopify_payments,2026-03-30 15:04:59 -0400,success,31.46,USD,visa,DRK-TMB-NVY,1,true,Changed mind,2026-03-13 06:04:59 -0400
+RF-100168,6100010631629,#3102,Shopify Payments,refund,shopify_payments,2026-04-18 19:25:25 -0400,success,36.12,USD,visa,DRK-TMB-BLK,1,true,Changed mind,2026-03-15 16:25:25 -0400
+RF-100169,6100010666167,#3108,Shopify Payments,refund,shopify_payments,2026-04-17 23:45:04 -0400,success,96.90,USD,visa,HTX-THR-CHR,1,true,Color not as pictured,2026-03-16 09:45:04 -0400
+RF-100170,6100010781555,#3134,Shopify Payments,refund,shopify_payments,2026-04-08 05:22:28 -0400,success,80.19,USD,visa,HTX-THR-CHR,1,true,Color not as pictured,2026-03-18 11:22:28 -0400
+RF-100171,6100010792490,#3136,Shopify Payments,refund,shopify_payments,2026-04-07 08:17:54 -0400,success,94.78,USD,visa,HTX-THR-NAT,1,true,Color not as pictured,2026-03-18 08:17:54 -0400
+RF-100172,6100010877677,#3151,Shopify Payments,refund,shopify_payments,2026-04-13 04:28:32 -0400,success,96.90,USD,visa,HTX-THR-CHR,1,true,Changed mind,2026-03-20 10:28:32 -0400
+RF-100173,6100010908681,#3157,Shopify Payments,refund,shopify_payments,2026-04-18 17:49:36 -0400,success,178.00,USD,visa,HTX-THR-CHR,2,false,Too thin / quality,2026-03-21 15:49:36 -0400
+RF-100174,6100010979648,#3170,Shopify Payments,refund,shopify_payments,2026-04-10 20:08:58 -0400,success,91.58,USD,visa,HTX-THR-CHR,1,false,Too thin / quality,2026-03-22 19:08:58 -0400
+RF-100175,6100011003193,#3174,Shopify Payments,refund,shopify_payments,2026-04-02 03:29:35 -0400,success,277.68,USD,visa,HTX-THR-SAG,3,true,Color not as pictured,2026-03-22 06:29:35 -0400
+RF-100176,6100011023355,#3179,Shopify Payments,refund,shopify_payments,2026-04-19 07:33:14 -0400,success,94.56,USD,visa,HTX-THR-CHR,1,false,Too thin / quality,2026-03-22 06:33:14 -0400
+RF-100177,6100011043163,#3183,Shopify Payments,refund,shopify_payments,2026-03-31 00:11:45 -0400,success,51.48,USD,visa,HTX-TWL-WHT,1,true,Changed mind,2026-03-23 11:11:45 -0400
+RF-100178,6100011056455,#3185,Shopify Payments,refund,shopify_payments,2026-04-28 11:27:47 -0400,success,122.96,USD,visa,DRK-POUR,2,false,Arrived damaged,2026-03-23 12:27:47 -0400
+RF-100179,6100011228521,#3222,Shopify Payments,refund,shopify_payments,2026-04-25 15:16:37 -0400,success,61.62,USD,visa,DRK-POUR,1,false,Arrived damaged,2026-03-27 16:16:37 -0400
+RF-100180,6100011237133,#3224,Shopify Payments,refund,shopify_payments,2026-04-21 22:04:23 -0400,success,61.48,USD,visa,DRK-POUR,1,false,Arrived damaged,2026-03-27 12:04:23 -0400
+RF-100181,6100011276550,#3234,Shopify Payments,refund,shopify_payments,2026-04-30 22:08:14 -0400,success,29.75,USD,amex,CND-FDW-08,1,true,Changed mind,2026-03-28 21:08:14 -0400
+RF-100182,6100011283184,#3236,Shopify Payments,refund,shopify_payments,2026-05-01 21:49:43 -0400,success,60.32,USD,visa,DRK-POUR,1,false,Arrived damaged,2026-03-28 23:49:43 -0400
+RF-100183,6100011319524,#3243,Shopify Payments,refund,shopify_payments,2026-04-14 02:36:47 -0400,success,61.62,USD,amex,DRK-POUR,1,false,Arrived damaged,2026-03-28 18:36:47 -0400
+RF-100184,6100011329385,#3245,Shopify Payments,refund,shopify_payments,2026-04-25 00:18:25 -0400,success,89.04,USD,amex,CND-SSC-08,3,true,Not as described,2026-03-28 10:18:25 -0400
+RF-100185,6100011330721,#3246,Shopify Payments,refund,shopify_payments,2026-04-13 01:42:19 -0400,success,51.36,USD,amex,HTX-TWL-WHT,1,true,Changed mind,2026-03-29 21:42:19 -0400
+RF-100186,6100011381188,#3255,Shopify Payments,refund,shopify_payments,2026-04-06 21:37:35 -0400,success,80.38,USD,visa,HTX-THR-NAT,1,true,Color not as pictured,2026-03-29 13:37:35 -0400
+RF-100187,6100011482197,#3275,Shopify Payments,refund,shopify_payments,2026-04-24 12:06:11 -0400,success,190.46,USD,visa,HTX-THR-NAT,2,true,Color not as pictured,2026-03-31 21:06:11 -0400
+RF-100188,6100011505151,#3281,PayPal Express Checkout,refund,paypal,2026-04-08 20:41:08 -0400,success,36.21,USD,,DRK-TMB-NVY,1,false,Arrived damaged,2026-04-01 14:41:08 -0400
+RF-100189,6100011595189,#3299,Shopify Payments,refund,shopify_payments,2026-05-06 19:31:31 -0400,success,94.56,USD,visa,HTX-THR-NAT,1,true,Changed mind,2026-04-02 09:31:31 -0400
+RF-100190,6100011777385,#3333,Shopify Payments,refund,shopify_payments,2026-04-23 03:05:40 -0400,success,44.52,USD,visa,CND-SSC-16,1,true,Changed mind,2026-04-05 12:05:40 -0400
+RF-100191,6100011870253,#3351,Shopify Payments,refund,shopify_payments,2026-05-12 00:46:05 -0400,success,36.12,USD,visa,DRK-TMB-SFM,1,true,Changed mind,2026-04-06 07:46:05 -0400
+RF-100192,6100011984334,#3375,Shopify Payments,refund,shopify_payments,2026-05-12 07:31:27 -0400,success,61.48,USD,visa,DRK-POUR,1,false,Arrived damaged,2026-04-08 23:31:27 -0400
+RF-100193,6100012119287,#3398,PayPal Express Checkout,refund,paypal,2026-04-30 10:38:24 -0400,success,30.63,USD,,DRK-TMB-NVY,1,true,Changed mind,2026-04-11 15:38:24 -0400
+RF-100194,6100012366201,#3454,Shopify Payments,refund,shopify_payments,2026-05-16 19:08:53 -0400,success,30.48,USD,visa,CND-SSC-08,1,true,Changed mind,2026-04-16 07:08:53 -0400
+RF-100195,6100012432405,#3470,Shopify Payments,refund,shopify_payments,2026-05-21 18:41:13 -0400,success,94.34,USD,visa,HTX-THR-SAG,1,false,Too thin / quality,2026-04-17 18:41:13 -0400
+RF-100196,6100012583347,#3496,Shopify Payments,refund,shopify_payments,2026-05-15 16:51:07 -0400,success,29.74,USD,visa,DRK-TMB-BLK,1,true,Wrong color/size,2026-04-19 21:51:07 -0400
+RF-100197,6100012699592,#3517,Shopify Payments,refund,shopify_payments,2026-05-12 18:21:31 -0400,success,80.95,USD,visa,HTX-THR-NAT,1,true,Changed mind,2026-04-20 22:21:31 -0400
+RF-100198,6100012723863,#3525,Shopify Payments,refund,shopify_payments,2026-04-30 19:50:27 -0400,success,23.32,USD,amex,SKN-SOAK,1,true,Wrong color/size,2026-04-20 23:50:27 -0400
+RF-100199,6100012738123,#3528,Shopify Payments,refund,shopify_payments,2026-05-20 03:40:51 -0400,success,61.48,USD,visa,DRK-POUR,1,false,Arrived damaged,2026-04-20 12:40:51 -0400
+RF-100200,6100012738123,#3528,Shopify Payments,refund,shopify_payments,2026-05-17 05:40:51 -0400,success,94.34,USD,visa,HTX-THR-NAT,1,true,Changed mind,2026-04-20 12:40:51 -0400
+RF-100201,6100012759502,#3532,Shopify Payments,refund,shopify_payments,2026-05-22 16:55:42 -0400,success,80.95,USD,visa,HTX-THR-NAT,1,true,Color not as pictured,2026-04-21 18:55:42 -0400
+RF-100202,6100012765528,#3533,Shopify Payments,refund,shopify_payments,2026-05-24 10:11:30 -0400,success,27.62,USD,visa,HFR-CARE,1,true,Changed mind,2026-04-21 22:11:30 -0400
+RF-100203,6100012812701,#3542,Shopify Payments,refund,shopify_payments,2026-05-03 20:05:46 -0400,success,94.34,USD,visa,HTX-THR-CHR,1,true,Color not as pictured,2026-04-22 19:05:46 -0400
+RF-100204,6100012857502,#3551,Shopify Payments,refund,shopify_payments,2026-05-25 15:15:36 -0400,success,94.56,USD,visa,HTX-THR-SAG,1,false,Too thin / quality,2026-04-23 19:15:36 -0400
+RF-100205,6100012927197,#3565,Shopify Payments,refund,shopify_payments,2026-05-13 23:44:06 -0400,success,19.26,USD,visa,SKN-HCRM,1,true,Wrong color/size,2026-04-24 10:44:06 -0400
+RF-100206,6100012978376,#3577,Shopify Payments,refund,shopify_payments,2026-05-11 13:25:00 -0400,success,16.96,USD,visa,SKN-SOAP,1,false,Quality issue,2026-04-24 14:25:00 -0400
+RF-100207,6100013008466,#3586,Shopify Payments,refund,shopify_payments,2026-05-20 07:22:23 -0400,success,94.34,USD,amex,HTX-THR-NAT,1,true,Color not as pictured,2026-04-25 17:22:23 -0400
+RF-100208,6100013048200,#3593,Shopify Payments,refund,shopify_payments,2026-05-07 13:52:59 -0400,success,44.52,USD,visa,CND-SSC-16,1,true,Wrong color/size,2026-04-25 12:52:59 -0400
+RF-100209,6100013082144,#3599,Shopify Payments,refund,shopify_payments,2026-05-10 02:05:13 -0400,success,61.48,USD,visa,DRK-POUR,1,false,Arrived damaged,2026-04-26 10:05:13 -0400
+RF-100210,6100013085430,#3600,Shopify Payments,refund,shopify_payments,2026-05-26 13:19:17 -0400,success,43.68,USD,amex,CND-SSC-16,1,true,Wrong color/size,2026-04-26 16:19:17 -0400
+RF-100211,6100013096118,#3602,Shopify Payments,refund,shopify_payments,2026-06-01 16:30:09 -0400,success,29.82,USD,visa,CND-SSC-08,1,true,Wrong color/size,2026-04-26 14:30:09 -0400
+RF-100212,6100013129459,#3608,Shopify Payments,refund,shopify_payments,2026-05-04 02:06:11 -0400,success,94.78,USD,visa,HTX-THR-CHR,1,true,Changed mind,2026-04-26 10:06:11 -0400
+RF-100213,6100013129459,#3608,Shopify Payments,refund,shopify_payments,2026-05-16 21:06:11 -0400,success,59.64,USD,visa,CND-CDN-08,2,true,Wrong color/size,2026-04-26 10:06:11 -0400
+RF-100214,6100013173240,#3617,Shopify Payments,refund,shopify_payments,2026-05-13 10:12:08 -0400,success,133.56,USD,visa,CND-EMP-16,3,true,Changed mind,2026-04-27 06:12:08 -0400
+RF-100215,6100013187380,#3620,PayPal Express Checkout,refund,paypal,2026-05-24 01:44:36 -0400,success,82.36,USD,,HTX-THR-NAT,1,true,Changed mind,2026-04-27 22:44:36 -0400
+RF-100216,6100013344354,#3648,Shopify Payments,refund,shopify_payments,2026-05-07 14:31:31 -0400,success,29.75,USD,visa,CND-SSC-08,1,true,Wrong color/size,2026-04-29 13:31:31 -0400
+RF-100217,6100013412936,#3662,Shopify Payments,refund,shopify_payments,2026-05-16 21:54:23 -0400,success,91.58,USD,visa,HTX-THR-SAG,1,false,Too thin / quality,2026-05-01 22:54:23 -0400
+RF-100218,6100013412936,#3662,Shopify Payments,refund,shopify_payments,2026-05-15 23:54:23 -0400,success,86.44,USD,visa,CND-SSC-16,2,true,Not as described,2026-05-01 22:54:23 -0400
+RF-100219,6100013414943,#3663,Shopify Payments,refund,shopify_payments,2026-06-07 03:32:41 -0400,success,35.36,USD,visa,DRK-TMB-NVY,1,true,Wrong color/size,2026-05-01 09:32:41 -0400
+RF-100220,6100013428726,#3665,Shopify Payments,refund,shopify_payments,2026-05-09 11:00:35 -0400,success,36.12,USD,visa,DRK-TMB-BLK,1,false,Arrived damaged,2026-05-01 20:00:35 -0400
+RF-100221,6100013562540,#3692,PayPal Express Checkout,refund,paypal,2026-05-30 21:07:29 -0400,success,95.45,USD,,HTX-THR-NAT,1,false,Too thin / quality,2026-05-03 15:07:29 -0400
+RF-100222,6100013602016,#3700,PayPal Express Checkout,refund,paypal,2026-05-27 03:10:11 -0400,success,152.19,USD,,DRK-POUR,3,false,Arrived damaged,2026-05-04 13:10:11 -0400
+RF-100223,6100013621473,#3703,Shopify Payments,refund,shopify_payments,2026-05-17 22:31:29 -0400,success,16.22,USD,visa,SKN-HCRM,1,true,Wrong color/size,2026-05-04 21:31:29 -0400
+RF-100224,6100013689257,#3717,Shopify Payments,refund,shopify_payments,2026-05-14 00:06:55 -0400,success,94.56,USD,visa,HTX-THR-NAT,1,false,Too thin / quality,2026-05-05 08:06:55 -0400
+RF-100225,6100013742761,#3729,Shopify Payments,refund,shopify_payments,2026-05-13 14:52:10 -0400,success,44.73,USD,visa,CND-SSC-16,1,true,Changed mind,2026-05-06 14:52:10 -0400
+RF-100226,6100013822020,#3743,Shopify Payments,refund,shopify_payments,2026-05-31 06:05:11 -0400,success,94.56,USD,amex,HTX-THR-NAT,1,false,Too thin / quality,2026-05-07 20:05:11 -0400
+RF-100227,6100014083835,#3791,Shopify Payments,refund,shopify_payments,2026-05-19 12:53:43 -0400,success,35.36,USD,visa,DRK-TMB-SND,1,true,Not as described,2026-05-10 21:53:43 -0400
+RF-100228,6100014255181,#3827,PayPal Express Checkout,refund,paypal,2026-05-30 09:05:14 -0400,success,91.58,USD,,HTX-THR-NAT,1,false,Too thin / quality,2026-05-12 23:05:14 -0400
+RF-100229,6100014264350,#3829,Shopify Payments,refund,shopify_payments,2026-05-21 00:27:49 -0400,success,29.12,USD,visa,CND-SSC-08,1,false,Quality issue,2026-05-12 15:27:49 -0400
+RF-100230,6100014316496,#3838,Shopify Payments,refund,shopify_payments,2026-06-15 11:43:19 -0400,success,36.12,USD,visa,DRK-TMB-NVY,1,true,Changed mind,2026-05-13 19:43:19 -0400
+RF-100231,6100014594756,#3891,Shopify Payments,refund,shopify_payments,2026-06-01 21:05:21 -0400,success,34.00,USD,visa,DRK-TMB-NVY,1,true,Changed mind,2026-05-17 14:05:21 -0400
+RF-100232,6100014661227,#3903,PayPal Express Checkout,refund,paypal,2026-06-19 04:45:35 -0400,success,22.00,USD,,SKN-SOAK,1,true,Wrong color/size,2026-05-18 12:45:35 -0400
+RF-100233,6100014697765,#3911,Shopify Payments,refund,shopify_payments,2026-05-28 02:40:15 -0400,success,25.91,USD,visa,CND-CDN-08,1,true,Changed mind,2026-05-18 09:40:15 -0400
+RF-100234,6100014754069,#3922,Shopify Payments,refund,shopify_payments,2026-06-15 18:24:43 -0400,success,77.84,USD,visa,HTX-THR-NAT,1,true,Changed mind,2026-05-19 14:24:43 -0400
+RF-100235,6100015005975,#3964,Shopify Payments,refund,shopify_payments,2026-06-30 00:46:47 -0400,success,36.04,USD,visa,DRK-TMB-NVY,1,true,Not as described,2026-05-23 14:46:47 -0400
+RF-100236,6100015030297,#3972,Shopify Payments,refund,shopify_payments,2026-06-02 02:58:12 -0400,success,44.52,USD,visa,CND-FDW-16,1,true,Not as described,2026-05-24 12:58:12 -0400
+RF-100237,6100015068845,#3981,Shopify Payments,refund,shopify_payments,2026-06-22 16:35:24 -0400,success,39.52,USD,visa,SKN-FOIL,1,true,Not as described,2026-05-24 13:35:24 -0400
+RF-100238,6100015104915,#3987,Shopify Payments,refund,shopify_payments,2026-06-08 20:38:04 -0400,success,94.34,USD,visa,HTX-THR-NAT,1,true,Color not as pictured,2026-05-25 17:38:04 -0400
+RF-100239,6100015379128,#4039,Shopify Payments,refund,shopify_payments,2026-07-02 13:46:56 -0400,success,29.75,USD,visa,CND-SSC-08,1,true,Not as described,2026-05-29 20:46:56 -0400
+RF-100240,6100015429545,#4049,PayPal Express Checkout,refund,paypal,2026-06-19 03:11:00 -0400,success,37.93,USD,,CND-SSC-16,1,true,Not as described,2026-05-30 16:11:00 -0400
+RF-100241,6100015498651,#4060,Shopify Payments,refund,shopify_payments,2026-06-07 10:31:46 -0400,success,80.38,USD,visa,HTX-THR-SAG,1,true,Color not as pictured,2026-05-30 14:31:46 -0400
+RF-100242,6100015607043,#4079,Shopify Payments,refund,shopify_payments,2026-07-03 08:17:32 -0400,success,160.76,USD,visa,HTX-THR-NAT,2,false,Too thin / quality,2026-06-02 19:17:32 -0400
+RF-100243,6100015612272,#4080,Shopify Payments,refund,shopify_payments,2026-06-24 19:26:42 -0400,success,31.46,USD,amex,DRK-TMB-BLK,1,true,Changed mind,2026-06-02 14:26:42 -0400
+RF-100244,6100015766453,#4111,Shopify Payments,refund,shopify_payments,2026-06-19 03:07:20 -0400,success,32.82,USD,visa,SKN-HCRM,2,true,Wrong color/size,2026-06-05 08:07:20 -0400
+RF-100245,6100016039386,#4166,Shopify Payments,refund,shopify_payments,2026-06-27 01:29:40 -0400,success,36.04,USD,visa,DRK-TMB-SFM,1,false,Arrived damaged,2026-06-10 19:29:40 -0400
+RF-100246,6100016148915,#4187,Shopify Payments,refund,shopify_payments,2026-07-12 03:51:40 -0400,success,37.02,USD,visa,DRK-TMB-NVY,1,true,Wrong color/size,2026-06-12 07:51:40 -0400
+RF-100247,6100016315001,#4215,Shopify Payments,refund,shopify_payments,2026-06-25 00:15:49 -0400,success,17.00,USD,amex,SKN-SOAP,1,true,Changed mind,2026-06-14 23:15:49 -0400
+RF-100248,6100016372456,#4226,Shopify Payments,refund,shopify_payments,2026-06-22 08:09:25 -0400,success,51.48,USD,visa,HTX-TWL-SND,1,true,Wrong color/size,2026-06-15 11:09:25 -0400
+RF-100249,6100016374306,#4227,Shopify Payments,refund,shopify_payments,2026-07-22 13:04:46 -0400,success,45.04,USD,visa,CND-NTD-16,1,false,Quality issue,2026-06-15 19:04:46 -0400
+RF-100250,6100016409872,#4234,Shopify Payments,refund,shopify_payments,2026-07-17 19:46:33 -0400,success,34.00,USD,visa,DRK-TMB-BLK,1,true,Not as described,2026-06-15 21:46:33 -0400
+RF-100251,6100016421809,#4236,Shopify Payments,refund,shopify_payments,2026-07-17 20:50:07 -0400,success,95.45,USD,visa,HTX-THR-CHR,1,false,Too thin / quality,2026-06-15 19:50:07 -0400
+RF-100252,6100016489762,#4254,Shopify Payments,refund,shopify_payments,2026-07-02 12:15:46 -0400,success,94.56,USD,visa,HTX-THR-NAT,1,false,Too thin / quality,2026-06-17 17:15:46 -0400
+RF-100253,6100016499226,#4256,Shopify Payments,refund,shopify_payments,2026-07-20 05:02:01 -0400,success,94.34,USD,visa,HTX-THR-CHR,1,true,Color not as pictured,2026-06-17 15:02:01 -0400
+RF-100254,6100016617087,#4281,Shopify Payments,refund,shopify_payments,2026-07-18 09:26:51 -0400,success,123.25,USD,visa,DRK-POUR,2,false,Arrived damaged,2026-06-18 08:26:51 -0400
+RF-100255,6100016653356,#4286,Shopify Payments,refund,shopify_payments,2026-06-27 11:00:58 -0400,success,85.11,USD,visa,HTX-THR-CHR,1,true,Color not as pictured,2026-06-19 09:00:58 -0400
+RF-100256,6100016715386,#4301,PayPal Express Checkout,refund,paypal,2026-07-14 08:02:21 -0400,success,36.04,USD,,DRK-TMB-NVY,1,true,Changed mind,2026-06-20 21:02:21 -0400
+RF-100257,6100016771863,#4310,Shopify Payments,refund,shopify_payments,2026-07-08 05:44:30 -0400,success,36.04,USD,visa,DRK-TMB-SND,1,true,Changed mind,2026-06-21 18:44:30 -0400
+RF-100258,6100016817084,#4320,Shopify Payments,refund,shopify_payments,2026-06-28 21:21:43 -0400,success,36.46,USD,visa,DRK-TMB-NVY,1,true,Changed mind,2026-06-21 09:21:43 -0400
+RF-100259,6100016827052,#4323,Shopify Payments,refund,shopify_payments,2026-07-08 17:15:15 -0400,success,27.56,USD,visa,HFR-CARE,1,false,Arrived damaged,2026-06-22 21:15:15 -0400
+RF-100260,6100016933316,#4347,Shopify Payments,refund,shopify_payments,2026-07-25 10:01:25 -0400,success,36.04,USD,visa,DRK-TMB-BLK,1,true,Wrong color/size,2026-06-24 09:01:25 -0400
+RF-100261,6100017121661,#4383,Shopify Payments,refund,shopify_payments,2026-08-01 16:36:14 -0400,success,189.12,USD,visa,HTX-THR-SAG,2,true,Changed mind,2026-06-26 13:36:14 -0400
+RF-100262,6100017187966,#4398,PayPal Express Checkout,refund,paypal,2026-07-15 09:32:22 -0400,success,39.31,USD,,CND-EMP-16,1,false,Arrived damaged,2026-06-27 08:32:22 -0400
+RF-100263,6100017285059,#4422,Shopify Payments,refund,shopify_payments,2026-07-20 14:45:31 -0400,success,9.56,USD,amex,HFR-MTCH,1,true,Changed mind,2026-06-28 08:45:31 -0400
+RF-100264,6100017444265,#4460,Shopify Payments,refund,shopify_payments,2026-07-22 03:20:46 -0400,success,29.96,USD,visa,CND-SSC-08,1,true,Changed mind,2026-07-02 11:20:46 -0400
+RF-100265,6100017460831,#4463,Shopify Payments,refund,shopify_payments,2026-07-31 02:15:29 -0400,success,189.12,USD,visa,HTX-THR-SAG,2,false,Too thin / quality,2026-07-02 18:15:29 -0400
+RF-100266,6100017578941,#4485,Shopify Payments,refund,shopify_payments,2026-08-08 02:21:34 -0400,success,18.00,USD,amex,SKN-HCRM,1,true,Changed mind,2026-07-04 23:21:34 -0400
+RF-100267,6100017631326,#4494,Shopify Payments,refund,shopify_payments,2026-07-13 09:17:31 -0400,success,94.34,USD,visa,HTX-THR-CHR,1,true,Changed mind,2026-07-05 14:17:31 -0400
+RF-100268,6100017680883,#4505,PayPal Express Checkout,refund,paypal,2026-07-31 01:01:34 -0400,success,102.24,USD,,HTX-TWL-WHT,2,true,Changed mind,2026-07-06 07:01:34 -0400
+RF-100269,6100017683944,#4506,Shopify Payments,refund,shopify_payments,2026-07-24 20:07:16 -0400,success,23.43,USD,visa,SKN-SOAK,1,true,Changed mind,2026-07-06 22:07:16 -0400
+RF-100270,6100017765466,#4523,PayPal Express Checkout,refund,paypal,2026-08-05 23:20:06 -0400,success,37.84,USD,,CND-NTD-16,1,true,Changed mind,2026-07-08 16:20:06 -0400
+RF-100271,6100017857561,#4543,Shopify Payments,refund,shopify_payments,2026-08-11 05:39:59 -0400,success,30.78,USD,visa,DRK-TMB-NVY,1,true,Not as described,2026-07-09 23:39:59 -0400
+RF-100272,6100017925240,#4558,Shopify Payments,refund,shopify_payments,2026-07-26 00:00:22 -0400,success,80.19,USD,amex,HTX-THR-NAT,1,true,Color not as pictured,2026-07-10 08:00:22 -0400
+RF-100273,6100018060246,#4587,Shopify Payments,refund,shopify_payments,2026-08-19 03:06:40 -0400,success,9.54,USD,visa,HFR-MTCH,1,true,Changed mind,2026-07-12 22:06:40 -0400
+RF-100274,6100018152099,#4606,Shopify Payments,refund,shopify_payments,2026-08-07 19:09:45 -0400,success,95.23,USD,visa,HTX-THR-CHR,1,true,Changed mind,2026-07-13 21:09:45 -0400
+RF-100275,6100018193982,#4614,Shopify Payments,refund,shopify_payments,2026-07-28 14:14:17 -0400,success,80.38,USD,amex,HTX-THR-NAT,1,true,Color not as pictured,2026-07-13 10:14:17 -0400
+RF-100276,6100018286362,#4634,Shopify Payments,refund,shopify_payments,2026-08-17 18:39:18 -0400,success,29.82,USD,visa,CND-NTD-08,1,true,Not as described,2026-07-15 06:39:18 -0400
+RF-100277,6100018308844,#4639,Shopify Payments,refund,shopify_payments,2026-08-08 08:19:08 -0400,success,36.12,USD,visa,DRK-TMB-NVY,1,false,Quality issue,2026-07-15 12:19:08 -0400
+RF-100278,6100018308844,#4639,Shopify Payments,refund,shopify_payments,2026-08-16 10:19:08 -0400,success,51.00,USD,visa,HTX-TWL-WHT,1,true,Changed mind,2026-07-15 12:19:08 -0400
+RF-100279,6100018350994,#4647,Shopify Payments,refund,shopify_payments,2026-08-11 04:40:20 -0400,success,62.93,USD,visa,DRK-TMB-BLK,2,true,Not as described,2026-07-15 12:40:20 -0400
+RF-100280,6100018375538,#4653,Shopify Payments,refund,shopify_payments,2026-08-20 23:50:52 -0400,success,61.48,USD,visa,DRK-POUR,1,false,Arrived damaged,2026-07-16 14:50:52 -0400
+RF-100281,6100018388544,#4655,Shopify Payments,refund,shopify_payments,2026-07-27 18:38:50 -0400,success,34.75,USD,visa,DRK-MUG-OAT,1,true,Not as described,2026-07-16 06:38:50 -0400
+RF-100282,6100018390525,#4656,Shopify Payments,refund,shopify_payments,2026-08-18 04:59:19 -0400,success,37.13,USD,visa,CND-SSC-16,1,true,Changed mind,2026-07-16 19:59:19 -0400
+RF-100283,6100018667920,#4711,PayPal Express Checkout,refund,paypal,2026-08-21 19:42:57 -0400,success,32.82,USD,,DRK-MUG-OAT,1,true,Changed mind,2026-07-19 14:42:57 -0400
+RF-100284,6100018700767,#4717,Shopify Payments,refund,shopify_payments,2026-08-20 10:39:34 -0400,success,60.32,USD,visa,DRK-POUR,1,false,Arrived damaged,2026-07-20 20:39:34 -0400
+RF-100285,6100018776671,#4733,Shopify Payments,refund,shopify_payments,2026-08-20 01:21:52 -0400,success,23.38,USD,amex,SKN-SOAK,1,true,Changed mind,2026-07-21 10:21:52 -0400
+RF-100286,6100018794259,#4736,Shopify Payments,refund,shopify_payments,2026-08-15 21:22:28 -0400,success,29.68,USD,amex,CND-CDN-08,1,true,Changed mind,2026-07-21 06:22:28 -0400
+RF-100287,6100018883130,#4753,Shopify Payments,refund,shopify_payments,2026-08-23 12:15:08 -0400,success,26.71,USD,visa,CND-SSC-08,1,true,Changed mind,2026-07-22 11:15:08 -0400
+RF-100288,6100018960864,#4767,Shopify Payments,refund,shopify_payments,2026-08-07 18:18:27 -0400,success,44.52,USD,amex,CND-CDN-16,1,true,Changed mind,2026-07-23 08:18:27 -0400
+RF-100289,6100019000668,#4774,Shopify Payments,refund,shopify_payments,2026-08-14 13:08:34 -0400,success,61.62,USD,visa,DRK-POUR,1,false,Arrived damaged,2026-07-23 14:08:34 -0400
+RF-100290,6100019023278,#4780,Shopify Payments,refund,shopify_payments,2026-08-21 22:51:30 -0400,success,184.44,USD,visa,DRK-POUR,3,false,Arrived damaged,2026-07-23 08:51:30 -0400
+RF-100291,6100019055412,#4785,Shopify Payments,refund,shopify_payments,2026-08-14 18:32:57 -0400,success,94.56,USD,visa,HTX-THR-NAT,1,false,Too thin / quality,2026-07-24 21:32:57 -0400
+RF-100292,6100019189317,#4810,Shopify Payments,refund,shopify_payments,2026-08-07 12:27:07 -0400,success,36.12,USD,visa,DRK-TMB-SND,1,true,Wrong color/size,2026-07-25 23:27:07 -0400
+RF-100293,6100019201900,#4812,Shopify Payments,refund,shopify_payments,2026-09-01 13:17:31 -0400,success,16.41,USD,visa,SKN-HCRM,1,false,Quality issue,2026-07-25 11:17:31 -0400
+RF-100294,6100019218115,#4816,Shopify Payments,refund,shopify_payments,2026-08-12 09:30:45 -0400,success,82.36,USD,amex,HTX-THR-NAT,1,true,Color not as pictured,2026-07-26 13:30:45 -0400
+RF-100295,6100019232021,#4819,Shopify Payments,refund,shopify_payments,2026-08-22 10:20:19 -0400,success,29.75,USD,visa,CND-CDN-08,1,true,Wrong color/size,2026-07-26 09:20:19 -0400
+RF-100296,6100019239572,#4820,PayPal Express Checkout,refund,paypal,2026-08-06 05:28:46 -0400,success,44.62,USD,,CND-FDW-16,1,true,Wrong color/size,2026-07-26 12:28:46 -0400
+RF-100297,6100019386976,#4851,Shopify Payments,refund,shopify_payments,2026-08-18 10:59:32 -0400,success,96.90,USD,visa,HTX-THR-SAG,1,false,Too thin / quality,2026-07-28 23:59:32 -0400
+RF-100298,6100019396056,#4855,PayPal Express Checkout,refund,paypal,2026-08-23 15:27:32 -0400,success,36.21,USD,,DRK-TMB-SND,1,true,Not as described,2026-07-29 13:27:32 -0400
+RF-100299,6100019417682,#4860,Shopify Payments,refund,shopify_payments,2026-08-28 00:57:17 -0400,success,61.62,USD,visa,DRK-POUR,1,false,Arrived damaged,2026-07-29 13:57:17 -0400
+RF-100300,6100019417682,#4860,Shopify Payments,refund,shopify_payments,2026-08-07 05:57:17 -0400,success,44.62,USD,visa,CND-FDW-16,1,false,Arrived damaged,2026-07-29 13:57:17 -0400
+RF-100301,6100019674627,#4910,Shopify Payments,refund,shopify_payments,2026-08-16 23:53:00 -0400,success,25.29,USD,visa,CND-SSC-08,1,true,Changed mind,2026-08-01 08:53:00 -0400
+RF-100302,6100019691586,#4915,Shopify Payments,refund,shopify_payments,2026-08-15 14:14:31 -0400,success,61.62,USD,visa,DRK-POUR,1,false,Arrived damaged,2026-08-02 19:14:31 -0400
+RF-100303,6100019795784,#4937,Shopify Payments,refund,shopify_payments,2026-08-15 04:25:31 -0400,success,123.25,USD,visa,DRK-POUR,2,false,Arrived damaged,2026-08-03 15:25:31 -0400
+RF-100304,6100019805729,#4941,Shopify Payments,refund,shopify_payments,2026-08-31 15:10:12 -0400,success,36.46,USD,visa,DRK-TMB-SND,1,false,Quality issue,2026-08-03 12:10:12 -0400
+RF-100305,6100019814891,#4943,Shopify Payments,refund,shopify_payments,2026-08-30 18:37:52 -0400,success,25.91,USD,visa,CND-SSC-08,1,true,Not as described,2026-08-03 08:37:52 -0400
+RF-100306,6100019822492,#4947,Shopify Payments,refund,shopify_payments,2026-08-11 00:54:40 -0400,success,94.56,USD,visa,HTX-THR-SAG,1,false,Too thin / quality,2026-08-03 14:54:40 -0400
+RF-100307,6100019870530,#4957,Shopify Payments,refund,shopify_payments,2026-09-06 08:17:56 -0400,success,30.03,USD,visa,CND-NTD-08,1,true,Changed mind,2026-08-04 06:17:56 -0400
+RF-100308,6100019917210,#4966,PayPal Express Checkout,refund,paypal,2026-08-24 23:17:16 -0400,success,89.04,USD,,CND-SSC-16,2,true,Wrong color/size,2026-08-05 11:17:16 -0400
+RF-100309,6100019924060,#4967,Shopify Payments,refund,shopify_payments,2026-08-31 16:05:39 -0400,success,61.77,USD,visa,DRK-POUR,1,false,Arrived damaged,2026-08-05 20:05:39 -0400
+RF-100310,6100020074415,#4995,Shopify Payments,refund,shopify_payments,2026-08-27 19:38:14 -0400,success,188.68,USD,visa,HTX-THR-CHR,2,true,Color not as pictured,2026-08-07 15:38:14 -0400
+RF-100311,6100020117275,#5003,Shopify Payments,refund,shopify_payments,2026-09-05 13:54:12 -0400,success,29.96,USD,visa,CND-SSC-08,1,true,Changed mind,2026-08-07 18:54:12 -0400
+RF-100312,6100020214487,#5021,Shopify Payments,refund,shopify_payments,2026-08-16 14:15:33 -0400,success,61.77,USD,visa,DRK-POUR,1,false,Arrived damaged,2026-08-08 17:15:33 -0400
+RF-100313,6100020235197,#5025,Shopify Payments,refund,shopify_payments,2026-09-02 12:45:54 -0400,success,94.78,USD,visa,HTX-THR-CHR,1,true,Color not as pictured,2026-08-08 09:45:54 -0400
+RF-100314,6100020277545,#5033,Shopify Payments,refund,shopify_payments,2026-09-13 14:14:08 -0400,success,62.06,USD,visa,DRK-POUR,1,false,Arrived damaged,2026-08-09 22:14:08 -0400
+RF-100315,6100020348340,#5049,Shopify Payments,refund,shopify_payments,2026-08-26 15:02:20 -0400,success,189.12,USD,visa,HTX-THR-NAT,2,true,Color not as pictured,2026-08-10 20:02:20 -0400
+RF-100316,6100020421876,#5062,PayPal Express Checkout,refund,paypal,2026-09-11 17:07:32 -0400,success,37.44,USD,,DRK-MUG-OAT,1,true,Not as described,2026-08-11 19:07:32 -0400
+RF-100317,6100020439545,#5065,Shopify Payments,refund,shopify_payments,2026-08-24 12:59:39 -0400,success,61.99,USD,visa,DRK-TMB-NVY,2,true,Not as described,2026-08-11 06:59:39 -0400
+RF-100318,6100020472791,#5073,Shopify Payments,refund,shopify_payments,2026-08-29 07:10:20 -0400,success,122.96,USD,visa,DRK-POUR,2,false,Arrived damaged,2026-08-12 11:10:20 -0400
+RF-100319,6100020573681,#5092,Shopify Payments,refund,shopify_payments,2026-09-06 21:04:33 -0400,success,62.20,USD,visa,DRK-POUR,1,false,Arrived damaged,2026-08-14 10:04:33 -0400
+RF-100320,6100020592673,#5096,PayPal Express Checkout,refund,paypal,2026-09-13 20:31:23 -0400,success,38.16,USD,,DRK-MUG-OAT,1,true,Wrong color/size,2026-08-14 08:31:23 -0400
+RF-100321,6100020602348,#5099,Shopify Payments,refund,shopify_payments,2026-08-29 00:53:53 -0400,success,29.68,USD,visa,CND-CDN-08,1,true,Not as described,2026-08-14 22:53:53 -0400
+RF-100322,6100020713521,#5121,Shopify Payments,refund,shopify_payments,2026-09-02 07:35:45 -0400,success,52.26,USD,visa,DRK-POUR,1,false,Arrived damaged,2026-08-15 18:35:45 -0400
+RF-100323,6100020836409,#5144,Shopify Payments,refund,shopify_payments,2026-08-26 07:16:42 -0400,success,81.13,USD,visa,HTX-THR-NAT,1,true,Changed mind,2026-08-17 18:16:42 -0400
+RF-100324,6100021279538,#5231,Shopify Payments,refund,shopify_payments,2026-09-01 13:19:05 -0400,success,89.00,USD,visa,HTX-THR-NAT,1,false,Too thin / quality,2026-08-23 17:19:05 -0400
+RF-100325,6100021340414,#5241,Shopify Payments,refund,shopify_payments,2026-09-06 14:14:06 -0400,success,50.73,USD,visa,DRK-POUR,1,false,Arrived damaged,2026-08-24 21:14:06 -0400
+RF-100326,6100021503072,#5274,Shopify Payments,refund,shopify_payments,2026-09-25 19:10:35 -0400,success,94.56,USD,amex,HTX-THR-NAT,1,false,Too thin / quality,2026-08-26 22:10:35 -0400
+RF-100327,6100021541556,#5282,Shopify Payments,refund,shopify_payments,2026-09-13 17:39:27 -0400,success,44.94,USD,visa,CND-SMS-16,1,true,Not as described,2026-08-27 18:39:27 -0400
+RF-100328,6100021568654,#5287,Shopify Payments,refund,shopify_payments,2026-09-05 18:33:41 -0400,success,23.38,USD,visa,SKN-SOAK,1,false,Arrived damaged,2026-08-27 18:33:41 -0400
+RF-100329,6100021576215,#5289,Shopify Payments,refund,shopify_payments,2026-09-13 16:48:34 -0400,success,151.30,USD,visa,HTX-THR-CHR,2,false,Too thin / quality,2026-08-27 15:48:34 -0400
+RF-100330,6100021585105,#5290,Shopify Payments,refund,shopify_payments,2026-09-12 14:14:17 -0400,success,61.48,USD,visa,DRK-POUR,1,false,Arrived damaged,2026-08-27 20:14:17 -0400
+RF-100331,6100021662386,#5305,Shopify Payments,refund,shopify_payments,2026-09-13 15:27:32 -0400,success,89.00,USD,amex,HTX-THR-NAT,1,true,Color not as pictured,2026-08-28 13:27:32 -0400
+RF-100332,6100021699660,#5311,Shopify Payments,refund,shopify_payments,2026-10-03 19:09:21 -0400,success,80.19,USD,visa,HTX-THR-CHR,1,true,Color not as pictured,2026-08-28 18:09:21 -0400
+RF-100333,6100021713663,#5314,Shopify Payments,refund,shopify_payments,2026-09-08 20:44:59 -0400,success,52.50,USD,visa,DRK-POUR,1,false,Arrived damaged,2026-08-29 21:44:59 -0400
+RF-100334,6100021832977,#5338,Shopify Payments,refund,shopify_payments,2026-10-03 09:30:58 -0400,success,25.91,USD,amex,CND-SSC-08,1,true,Changed mind,2026-08-30 09:30:58 -0400
+RF-100335,6100021990308,#5369,Shopify Payments,refund,shopify_payments,2026-09-18 11:06:22 -0400,success,29.68,USD,amex,CND-SSC-08,1,true,Wrong color/size,2026-09-03 08:06:22 -0400
+RF-100336,6100022169692,#5411,Shopify Payments,refund,shopify_payments,2026-10-01 14:08:22 -0400,success,77.84,USD,visa,HTX-THR-SAG,1,true,Color not as pictured,2026-09-06 07:08:22 -0400
+RF-100337,6100022196837,#5416,Shopify Payments,refund,shopify_payments,2026-10-02 10:56:26 -0400,success,63.15,USD,visa,DRK-POUR,1,false,Arrived damaged,2026-09-06 15:56:26 -0400
+RF-100338,6100022221002,#5421,Shopify Payments,refund,shopify_payments,2026-10-08 16:18:59 -0400,success,61.48,USD,amex,DRK-POUR,1,false,Arrived damaged,2026-09-06 23:18:59 -0400
+RF-100339,6100022332001,#5439,Shopify Payments,refund,shopify_payments,2026-10-06 05:45:27 -0400,success,38.61,USD,visa,DRK-MUG-OAT,1,false,Quality issue,2026-09-07 16:45:27 -0400
+RF-100340,6100022370070,#5447,Shopify Payments,refund,shopify_payments,2026-09-19 08:42:38 -0400,success,19.82,USD,visa,SKN-SOAK,1,true,Changed mind,2026-09-08 12:42:38 -0400
+RF-100341,6100022402420,#5454,Shopify Payments,refund,shopify_payments,2026-10-10 19:21:29 -0400,success,94.34,USD,visa,HTX-THR-CHR,1,true,Color not as pictured,2026-09-09 16:21:29 -0400
+RF-100342,6100022412863,#5456,Shopify Payments,refund,shopify_payments,2026-09-21 03:06:26 -0400,success,51.48,USD,visa,HTX-TWL-WHT,1,true,Wrong color/size,2026-09-09 12:06:26 -0400
+RF-100343,6100022486207,#5470,Shopify Payments,refund,shopify_payments,2026-10-16 17:32:50 -0400,success,94.56,USD,amex,HTX-THR-SAG,1,false,Too thin / quality,2026-09-10 20:32:50 -0400
+RF-100344,6100022573488,#5483,Shopify Payments,refund,shopify_payments,2026-10-13 07:41:07 -0400,success,80.38,USD,visa,HTX-THR-CHR,1,false,Too thin / quality,2026-09-11 12:41:07 -0400
+RF-100345,6100022587017,#5486,Shopify Payments,refund,shopify_payments,2026-09-28 08:29:45 -0400,success,89.00,USD,visa,HTX-THR-CHR,1,true,Color not as pictured,2026-09-11 06:29:45 -0400
+RF-100346,6100022614316,#5494,Shopify Payments,refund,shopify_payments,2026-09-20 15:44:22 -0400,success,19.30,USD,visa,SKN-HCRM,1,true,Not as described,2026-09-12 23:44:22 -0400
+RF-100347,6100022854153,#5542,Shopify Payments,refund,shopify_payments,2026-10-20 15:25:46 -0400,success,36.12,USD,visa,DRK-TMB-SFM,1,true,Not as described,2026-09-15 14:25:46 -0400
+RF-100348,6100022978240,#5566,Shopify Payments,refund,shopify_payments,2026-09-26 07:05:02 -0400,success,50.48,USD,visa,BND-GIFT,1,true,Wrong color/size,2026-09-18 10:05:02 -0400
+RF-100349,6100023011074,#5571,Shopify Payments,refund,shopify_payments,2026-10-15 14:11:29 -0400,success,29.82,USD,visa,CND-SSC-08,1,true,Changed mind,2026-09-18 18:11:29 -0400
+RF-100350,6100023017549,#5572,Shopify Payments,refund,shopify_payments,2026-10-05 04:26:38 -0400,success,24.75,USD,visa,CND-FDW-08,1,true,Wrong color/size,2026-09-18 19:26:38 -0400
+RF-100351,6100023083759,#5582,Shopify Payments,refund,shopify_payments,2026-10-05 02:50:28 -0400,success,94.78,USD,amex,HTX-THR-SAG,1,true,Color not as pictured,2026-09-18 21:50:28 -0400
+RF-100352,6100023112332,#5586,Shopify Payments,refund,shopify_payments,2026-09-30 03:57:58 -0400,success,80.57,USD,visa,HTX-THR-CHR,1,false,Too thin / quality,2026-09-19 21:57:58 -0400
+RF-100353,6100023228026,#5609,Shopify Payments,refund,shopify_payments,2026-10-05 18:10:33 -0400,success,44.52,USD,visa,CND-SMS-16,1,false,Quality issue,2026-09-20 19:10:33 -0400
+RF-100354,6100023256453,#5613,Shopify Payments,refund,shopify_payments,2026-10-01 09:37:48 -0400,success,34.99,USD,visa,DRK-TMB-NVY,1,true,Not as described,2026-09-21 17:37:48 -0400
+RF-100355,6100023268217,#5615,Shopify Payments,refund,shopify_payments,2026-10-17 20:44:49 -0400,success,94.56,USD,visa,HTX-THR-SAG,1,false,Too thin / quality,2026-09-21 06:44:49 -0400
+RF-100356,6100023287405,#5621,Shopify Payments,refund,shopify_payments,2026-10-19 11:54:49 -0400,success,38.25,USD,amex,DRK-MUG-OAT,1,true,Wrong color/size,2026-09-21 11:54:49 -0400
+RF-100357,6100023349404,#5635,Shopify Payments,refund,shopify_payments,2026-10-14 10:25:09 -0400,success,94.56,USD,visa,HTX-THR-NAT,1,true,Color not as pictured,2026-09-22 08:25:09 -0400
+RF-100358,6100023417941,#5647,Shopify Payments,refund,shopify_payments,2026-10-22 18:22:22 -0400,success,37.84,USD,visa,CND-SSC-16,1,true,Wrong color/size,2026-09-23 21:22:22 -0400
+RF-100359,6100023481164,#5657,PayPal Express Checkout,refund,paypal,2026-10-24 03:58:39 -0400,success,36.21,USD,,DRK-TMB-SND,1,false,Arrived damaged,2026-09-24 15:58:39 -0400
+RF-100360,6100023588908,#5679,Shopify Payments,refund,shopify_payments,2026-10-19 21:14:54 -0400,success,37.93,USD,visa,CND-SSC-16,1,true,Changed mind,2026-09-25 22:14:54 -0400
+RF-100361,6100023638370,#5687,PayPal Express Checkout,refund,paypal,2026-10-19 00:49:56 -0400,success,25.23,USD,,CND-SSC-08,1,true,Changed mind,2026-09-25 23:49:56 -0400
+RF-100362,6100024090945,#5771,Shopify Payments,refund,shopify_payments,2026-10-15 04:11:06 -0400,success,94.34,USD,visa,HTX-THR-CHR,1,true,Changed mind,2026-10-01 12:11:06 -0400
+RF-100363,6100024139959,#5781,Shopify Payments,refund,shopify_payments,2026-10-12 02:05:53 -0400,success,29.75,USD,visa,CND-NTD-08,1,false,Quality issue,2026-10-02 22:05:53 -0400
+RF-100364,6100024415498,#5831,Shopify Payments,refund,shopify_payments,2026-10-12 17:05:57 -0400,success,94.78,USD,visa,HTX-THR-NAT,1,true,Color not as pictured,2026-10-04 06:05:57 -0400
+RF-100365,6100024539179,#5859,Shopify Payments,refund,shopify_payments,2026-10-14 14:54:31 -0400,success,52.26,USD,visa,DRK-POUR,1,false,Arrived damaged,2026-10-06 12:54:31 -0400
+RF-100366,6100024989324,#5944,Shopify Payments,refund,shopify_payments,2026-10-22 05:53:28 -0400,success,44.42,USD,visa,HTX-TWL-WHT,1,false,Quality issue,2026-10-11 17:53:28 -0400
+RF-100367,6100025044427,#5956,Shopify Payments,refund,shopify_payments,2026-10-21 09:18:18 -0400,success,36.04,USD,visa,DRK-TMB-BLK,1,true,Not as described,2026-10-11 10:18:18 -0400

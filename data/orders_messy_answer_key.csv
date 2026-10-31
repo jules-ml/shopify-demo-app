@@ -1,0 +1,208 @@
+row_index,Name,issue
+25,#1185,blank SKU
+108,#1904,blank SKU
+101,#1826,blank SKU
+175,#2273,blank SKU
+565,#4935,blank SKU
+457,#4228,blank SKU
+486,#4358,blank SKU
+216,#2494,blank SKU
+484,#4341,blank SKU
+473,#4288,blank SKU
+6,#1047,blank SKU
+747,#6008,blank SKU
+537,#4648,blank SKU
+321,#3105,blank SKU
+383,#3692,blank SKU
+293,#2860,blank SKU
+165,#2208,blank SKU
+705,#5734,blank SKU
+273,#2732,blank SKU
+338,#3261,blank SKU
+193,#2396,blank SKU
+551,#4836,blank SKU
+157,#2177,blank SKU
+549,#4813,blank SKU
+730,#5904,blank SKU
+12,#1088,SKU lowercase + trailing spaces
+690,#5655,SKU lowercase + trailing spaces
+510,#4460,SKU lowercase + trailing spaces
+561,#4884,SKU lowercase + trailing spaces
+5,#1047,SKU lowercase + trailing spaces
+756,#6053,SKU lowercase + trailing spaces
+50,#1352,SKU lowercase + trailing spaces
+264,#2694,SKU lowercase + trailing spaces
+452,#4195,SKU lowercase + trailing spaces
+646,#5394,SKU lowercase + trailing spaces
+479,#4304,SKU lowercase + trailing spaces
+674,#5569,SKU lowercase + trailing spaces
+668,#5518,SKU lowercase + trailing spaces
+217,#2494,SKU lowercase + trailing spaces
+291,#2838,SKU lowercase + trailing spaces
+623,#5271,SKU lowercase + trailing spaces
+398,#3829,SKU lowercase + trailing spaces
+145,#2048,SKU lowercase + trailing spaces
+395,#3808,SKU lowercase + trailing spaces
+379,#3666,SKU lowercase + trailing spaces
+272,#2732,SKU lowercase + trailing spaces
+35,#1259,SKU lowercase + trailing spaces
+238,#2596,SKU lowercase + trailing spaces
+287,#2815,SKU lowercase + trailing spaces
+233,#2562,SKU lowercase + trailing spaces
+712,#5801,SKU lowercase + trailing spaces
+76,#1565,SKU lowercase + trailing spaces
+684,#5614,SKU lowercase + trailing spaces
+436,#4031,SKU lowercase + trailing spaces
+552,#4836,SKU lowercase + trailing spaces
+378,#3666,SKU lowercase + trailing spaces
+162,#2198,SKU lowercase + trailing spaces
+266,#2698,SKU lowercase + trailing spaces
+16,#1129,SKU lowercase + trailing spaces
+227,#2527,SKU lowercase + trailing spaces
+511,#4461,SKU lowercase + trailing spaces
+529,#4610,SKU lowercase + trailing spaces
+651,#5397,name leading/trailing spaces
+48,#1349,name leading/trailing spaces
+107,#1898,name leading/trailing spaces
+365,#3453,name leading/trailing spaces
+432,#4006,name leading/trailing spaces
+281,#2791,name leading/trailing spaces
+197,#2404,name leading/trailing spaces
+698,#5706,name leading/trailing spaces
+360,#3376,name leading/trailing spaces
+710,#5778,name leading/trailing spaces
+397,#3808,name leading/trailing spaces
+581,#5055,name leading/trailing spaces
+57,#1456,name leading/trailing spaces
+41,#1317,name leading/trailing spaces
+278,#2739,name leading/trailing spaces
+369,#3524,name leading/trailing spaces
+103,#1872,name leading/trailing spaces
+91,#1725,name leading/trailing spaces
+627,#5297,name leading/trailing spaces
+51,#1374,name leading/trailing spaces
+770,#6144,name leading/trailing spaces
+412,#3866,name leading/trailing spaces
+462,#4259,name leading/trailing spaces
+12,#1088,name leading/trailing spaces
+22,#1156,name leading/trailing spaces
+381,#3674,date format %m/%d/%Y %H:%M
+682,#5614,date format %d %b %Y
+295,#2894,date format %Y-%m-%dT%H:%M:%SZ
+293,#2860,date format %m/%d/%y
+44,#1333,date format %m/%d/%Y %H:%M
+462,#4259,date format %d %b %Y
+369,#3524,date format %Y-%m-%dT%H:%M:%SZ
+418,#3908,date format %m/%d/%y
+302,#2943,date format %m/%d/%Y %H:%M
+566,#4936,date format %d %b %Y
+223,#2521,date format %Y-%m-%dT%H:%M:%SZ
+184,#2327,date format %m/%d/%y
+95,#1797,date format %m/%d/%Y %H:%M
+332,#3178,date format %d %b %Y
+336,#3236,date format %Y-%m-%dT%H:%M:%SZ
+624,#5285,date format %m/%d/%y
+640,#5376,date format %m/%d/%Y %H:%M
+627,#5297,date format %d %b %Y
+143,#2030,date format %Y-%m-%dT%H:%M:%SZ
+338,#3261,date format %m/%d/%y
+693,#5674,date format %m/%d/%Y %H:%M
+772,#6152,date format %d %b %Y
+752,#6049,date format %Y-%m-%dT%H:%M:%SZ
+463,#4260,date format %m/%d/%y
+316,#3077,date format %m/%d/%Y %H:%M
+39,#1297,date format %d %b %Y
+690,#5655,date format %Y-%m-%dT%H:%M:%SZ
+394,#3804,date format %m/%d/%y
+609,#5211,date format %m/%d/%Y %H:%M
+573,#4986,date format %d %b %Y
+48,#1349,date format %Y-%m-%dT%H:%M:%SZ
+286,#2813,date format %m/%d/%y
+622,#5251,date format %m/%d/%Y %H:%M
+267,#2704,date format %d %b %Y
+138,#2025,date format %Y-%m-%dT%H:%M:%SZ
+707,#5755,date format %m/%d/%y
+774,#6159,date format %m/%d/%Y %H:%M
+520,#4544,date format %d %b %Y
+111,#1915,date format %Y-%m-%dT%H:%M:%SZ
+314,#3012,date format %m/%d/%y
+618,#5240,date format %m/%d/%Y %H:%M
+499,#4411,date format %d %b %Y
+666,#5489,date format %Y-%m-%dT%H:%M:%SZ
+593,#5143,date format %m/%d/%y
+607,#5203,date format %m/%d/%Y %H:%M
+698,#5706,date format %d %b %Y
+450,#4183,date format %Y-%m-%dT%H:%M:%SZ
+30,#1191,date format %m/%d/%y
+374,#3653,date format %m/%d/%Y %H:%M
+596,#5145,date format %d %b %Y
+227,#2527,date format %Y-%m-%dT%H:%M:%SZ
+517,#4505,date format %m/%d/%y
+181,#2310,date format %m/%d/%Y %H:%M
+601,#5175,date format %d %b %Y
+457,#4228,date format %Y-%m-%dT%H:%M:%SZ
+119,#1935,date format %m/%d/%y
+128,#1977,date format %m/%d/%Y %H:%M
+165,#2208,date format %d %b %Y
+270,#2727,date format %Y-%m-%dT%H:%M:%SZ
+701,#5720,date format %m/%d/%y
+422,#3911,Total has $ sign
+277,#2739,Total has $ sign
+268,#2708,Total has $ sign
+354,#3347,Total has $ sign
+652,#5401,Total has $ sign
+185,#2335,Total has $ sign
+666,#5489,Total has $ sign
+343,#3273,Total has $ sign
+146,#2083,Total has $ sign
+437,#4050,Total has $ sign
+635,#5338,Total has $ sign
+557,#4853,Total has $ sign
+693,#5674,Total has $ sign
+359,#3376,Total has $ sign
+43,#1322,Total has $ sign
+254,#2668,Total has $ sign
+545,#4812,Total has $ sign
+166,#2217,Total has $ sign
+772,#6152,Total has $ sign
+751,#6030,Total has $ sign
+129,#1977,SKU not in products catalog
+589,#5110,SKU not in products catalog
+337,#3241,SKU not in products catalog
+153,#2122,SKU not in products catalog
+279,#2739,SKU not in products catalog
+59,#1470,SKU not in products catalog
+699,#5706,zero quantity
+558,#4853,zero quantity
+109,#1904,zero quantity
+294,#2860,zero quantity
+274,#2734,row duplicated (copy appended at end)
+385,#3694,row duplicated (copy appended at end)
+536,#4648,row duplicated (copy appended at end)
+619,#5240,row duplicated (copy appended at end)
+9,#1082,row duplicated (copy appended at end)
+488,#4368,row duplicated (copy appended at end)
+610,#5211,row duplicated (copy appended at end)
+766,#6132,row duplicated (copy appended at end)
+16,#1129,row duplicated (copy appended at end)
+697,#5699,row duplicated (copy appended at end)
+255,#2669,row duplicated (copy appended at end)
+20,#1145,row duplicated (copy appended at end)
+675,#5586,row duplicated (copy appended at end)
+706,#5734,row duplicated (copy appended at end)
+633,#5327,row duplicated (copy appended at end)
+1,#1011,row duplicated (copy appended at end)
+563,#4885,row duplicated (copy appended at end)
+377,#3659,row duplicated (copy appended at end)
+562,#4884,row duplicated (copy appended at end)
+574,#5015,row duplicated (copy appended at end)
+522,#4548,row duplicated (copy appended at end)
+743,#5999,row duplicated (copy appended at end)
+4,#1037,row duplicated (copy appended at end)
+707,#5755,row duplicated (copy appended at end)
+62,#1488,row duplicated (copy appended at end)
+224,#2521,row duplicated (copy appended at end)
+764,#6090,row duplicated (copy appended at end)
+373,#3645,row duplicated (copy appended at end)
+168,#2217,row duplicated (copy appended at end)
+8,#1067,row duplicated (copy appended at end)

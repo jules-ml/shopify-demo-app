@@ -1,0 +1,102 @@
+{
+  "store_cm_pct_before_ads": 0.5284,
+  "bottom_skus_by_cm_pct": {
+    "DRK-POUR": {
+      "cm_pct": 0.055,
+      "return_rate_units": 0.218,
+      "disc_pct": 0.051,
+      "ship_cost_per_unit": 17.004
+    },
+    "BND-GIFT": {
+      "cm_pct": 0.126,
+      "return_rate_units": 0.059,
+      "disc_pct": 0.306,
+      "ship_cost_per_unit": 9.008
+    },
+    "HTX-THR-CHR": {
+      "cm_pct": 0.24,
+      "return_rate_units": 0.289,
+      "disc_pct": 0.056,
+      "ship_cost_per_unit": 6.984
+    },
+    "HTX-THR-SAG": {
+      "cm_pct": 0.283,
+      "return_rate_units": 0.217,
+      "disc_pct": 0.042,
+      "ship_cost_per_unit": 7.107
+    },
+    "HTX-THR-NAT": {
+      "cm_pct": 0.303,
+      "return_rate_units": 0.241,
+      "disc_pct": 0.039,
+      "ship_cost_per_unit": 6.893
+    }
+  },
+  "stockout_skus": {
+    "CND-SSC-08": {
+      "available": 51,
+      "v30_per_day": 8.57,
+      "days_of_stock": 6.0,
+      "days_to_next_po": 16.0
+    },
+    "DRK-TMB-NVY": {
+      "available": 30,
+      "v30_per_day": 3.97,
+      "days_of_stock": 7.6,
+      "days_to_next_po": 40.0
+    }
+  },
+  "slow_movers": {
+    "HFR-WICK": {
+      "on_hand": 414,
+      "units_90d": 8,
+      "inv_value_at_cost": 1283.4
+    },
+    "SKN-FOIL": {
+      "on_hand": 304,
+      "units_90d": 3,
+      "inv_value_at_cost": 2979.2000000000003
+    },
+    "HFR-REED": {
+      "on_hand": 263,
+      "units_90d": 4,
+      "inv_value_at_cost": 2340.7000000000003
+    },
+    "DRK-MUG-TER": {
+      "on_hand": 374,
+      "units_90d": 4,
+      "inv_value_at_cost": 3889.6
+    }
+  },
+  "monthly_net_item_sales": {
+    "2025-10": 4558.65,
+    "2025-11": 40770.75,
+    "2025-12": 46014.8,
+    "2026-01": 16916.0,
+    "2026-02": 15396.4,
+    "2026-03": 24485.5,
+    "2026-04": 24695.3,
+    "2026-05": 26355.15,
+    "2026-06": 23444.1,
+    "2026-07": 27769.65,
+    "2026-08": 30211.0,
+    "2026-09": 27015.5,
+    "2026-10": 28129.5
+  },
+  "mer_by_month": {
+    "2025-10": 4.19,
+    "2025-11": 4.05,
+    "2025-12": 3.66,
+    "2026-01": 3.72,
+    "2026-02": 3.67,
+    "2026-03": 3.85,
+    "2026-04": 4.03,
+    "2026-05": 3.98,
+    "2026-06": 3.69,
+    "2026-07": 4.05,
+    "2026-08": 3.09,
+    "2026-09": 4.01,
+    "2026-10": 4.18
+  },
+  "new_order_share": 0.6897
+}

@@ -1,0 +1,36 @@
+SKU,Supplier,Lead Time (days),Safety Stock (days),MOQ
+CND-SSC-08,Lowcountry Wax Works,21,14,24
+CND-SSC-16,Lowcountry Wax Works,21,14,24
+CND-FDW-08,Lowcountry Wax Works,21,14,24
+CND-FDW-16,Lowcountry Wax Works,21,14,24
+CND-CDN-08,Lowcountry Wax Works,21,14,24
+CND-CDN-16,Lowcountry Wax Works,21,14,24
+CND-NTD-08,Lowcountry Wax Works,21,14,24
+CND-NTD-16,Lowcountry Wax Works,21,14,24
+CND-SMS-08,Lowcountry Wax Works,21,14,24
+CND-SMS-16,Lowcountry Wax Works,21,14,24
+CND-EMP-08,Lowcountry Wax Works,21,14,24
+CND-EMP-16,Lowcountry Wax Works,21,14,24
+SKN-SCRB,Palmetto Botanicals,28,14,24
+SKN-HCRM,Palmetto Botanicals,28,14,24
+SKN-LIP3,Palmetto Botanicals,28,14,24
+SKN-FOIL,Palmetto Botanicals,28,14,24
+SKN-SOAP,Palmetto Botanicals,28,14,24
+SKN-SOAK,Palmetto Botanicals,28,14,24
+DRK-TMB-NVY,Harbor Ceramics & Steel,45,14,24
+DRK-TMB-SND,Harbor Ceramics & Steel,45,14,24
+DRK-TMB-SFM,Harbor Ceramics & Steel,45,14,24
+DRK-TMB-BLK,Harbor Ceramics & Steel,45,14,24
+DRK-POUR,Harbor Ceramics & Steel,45,14,24
+DRK-MUG-OAT,Harbor Ceramics & Steel,45,14,24
+DRK-MUG-TER,Harbor Ceramics & Steel,45,14,24
+HTX-THR-NAT,Lino Mill Co.,50,14,24
+HTX-THR-CHR,Lino Mill Co.,50,14,24
+HTX-THR-SAG,Lino Mill Co.,50,14,24
+HTX-TWL-WHT,Lino Mill Co.,50,14,24
+HTX-TWL-SND,Lino Mill Co.,50,14,24
+BND-GIFT,In-house kitting,21,14,24
+HFR-REED,Lowcountry Wax Works,30,14,24
+HFR-WICK,Lowcountry Wax Works,30,14,24
+HFR-MTCH,Lowcountry Wax Works,30,14,24
+HFR-CARE,Lowcountry Wax Works,30,14,24
